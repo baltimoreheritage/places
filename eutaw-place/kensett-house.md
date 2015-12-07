@@ -1,5 +1,8 @@
 # Kensett House Apartments – 1700 Eutaw Place
 
+
+![Kensett House Apartments at the northwest corner of Wilson Street and Eutaw Place](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12311136_10208597466080411_2013506429300905170_n.jpg?oh=977cedf00a5a12c6a80697ff8db13a99&oe=56E1FA7B)
+
 By August 30, 1867, the Sun reported on development in the area of Eutaw Place in glowing terms, writing: 
 
 > Dwelling Improvements in the Western Section. A visit to the vicinity of Eutaw place, Lafayette square, or to that section of the city north and west of Madison avenue, will convince the most skeptical that Baltimore is improving to a degree which will astonish many, and gratify all who have the prosperity of the city at heart.
