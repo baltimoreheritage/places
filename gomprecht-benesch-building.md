@@ -14,7 +14,7 @@ The Gomprecht and Benesch Building is a six-story brick commercial building in a
 
 The building caught on fire in the late evening hours of Saturday, January 14, 2017 . On Sunday, January 15, 2017,  [the  _Baltimore Sun_](http://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-ci-eutaw-fire-20170115-story.html) reported that Baltimore City Fire Department Chief Roman Clark said the building "continued burning Sunday afternoon as collapsed floors have blocked firefighters from the flames".
 
-![Detail of the cornice of the Gomprecht and Benesch Building, March 1986. Photograph by Janet Davis.]({{ absolute_url }}/assets/images/1986-03-janet-davis-gomprecht-benesch-building-cornice-detail.jpg)
+![Detail of the cornice of the Gomprecht and Benesch Building, March 1986. Photograph by Janet Davis.]({{ absolute_url }}/places/assets/images/1986-03-janet-davis-gomprecht-benesch-building-cornice-detail.jpg)
 
 ## Building History
 
@@ -41,8 +41,8 @@ The transoms are small and have multiple lights. Brick piers separate the window
 
 ## Historical Images
 
-![Portrait of Jacob Gomprecht, c. 1910. Courtesy The Jews of Baltimore, Internet Archive.]({{ absolute_url }}/assets/images/1910-jacob-gomprecht-jewsofbaltimoreh00blum_0407.jpg)
+![Portrait of Jacob Gomprecht, c. 1910. Courtesy The Jews of Baltimore, Internet Archive.]({{ absolute_url }}/places/assets/images/1910-jacob-gomprecht-jewsofbaltimoreh00blum_0407.jpg)
 
-![Gomprecht & Benesch on Eutaw Street, c. 1910. Courtesy The Jews of Baltimore, Internet Archive.]({{ absolute_url }}/assets/images/1910-gomprecht-benesch-jewsofbaltimoreh00blum_0509.jpg)
+![Gomprecht & Benesch on Eutaw Street, c. 1910. Courtesy The Jews of Baltimore, Internet Archive.]({{ absolute_url }}/places/assets/images/1910-gomprecht-benesch-jewsofbaltimoreh00blum_0509.jpg)
 
-![View of the Gomprecht and Benesch Building, 1976. Photograph by Bill Pencek.]({{ absolute_url }}/assets/images/1976-bill-pencek-gomprecht-benesch-building.jpg)
+![View of the Gomprecht and Benesch Building, 1976. Photograph by Bill Pencek.]({{ absolute_url }}/places/assets/images/1976-bill-pencek-gomprecht-benesch-building.jpg)
