@@ -1,13 +1,18 @@
-# Kensett House Apartments – 1700 Eutaw Place
+---
+title: "Kensett House Apartments"
+address: "1700 Eutaw Place"
+layout: default
+---
 
+## Kensett House Apartments – 1700 Eutaw Place
 
 ![Kensett House Apartments at the northwest corner of Wilson Street and Eutaw Place](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12311136_10208597466080411_2013506429300905170_n.jpg?oh=977cedf00a5a12c6a80697ff8db13a99&oe=56E1FA7B)
 
-By August 30, 1867, the Sun reported on development in the area of Eutaw Place in glowing terms, writing: 
+By August 30, 1867, the Sun reported on development in the area of Eutaw Place in glowing terms, writing:
 
 > Dwelling Improvements in the Western Section. A visit to the vicinity of Eutaw place, Lafayette square, or to that section of the city north and west of Madison avenue, will convince the most skeptical that Baltimore is improving to a degree which will astonish many, and gratify all who have the prosperity of the city at heart.
 
-On Jul 1, 1875, the Sun reported on the Mayor’s approval for an ordinance “to curb Eutaw square, between Wilson street and North avenue, with six-inch granite curb.”
+On Jul 1, 1875, the Sun reported on the Mayor’s approval for an ordinance "to curb Eutaw square, between Wilson street and North avenue, with six-inch granite curb."
 
 On May 21, 1877, the Sun reported on improvements to the parks and fountains, writing:
 
@@ -33,11 +38,11 @@ On May 8, 1923, the Sun reported:
 > For the second time in the Iast few months the Navarre Apartments, at the northwest corner of Eutaw Place and Wilson street, has changed hands. Yesterday the property was' purchased by Adolph Rosenthal, dealer in dry goods, from Robert Seff and Samuel Speert for a consideration said to have been about $125,000 in fee simple. Harry C. Michael and Jack Hamburger were the brokers.
 > Of brick, four stories high, the building occupies a lot 50 by 150 feet and contains 27 house-keeping suites, ranging from four rooms and bath to seven rooms and bath in addition to three stores. The purchaser, who acquired the property for investment, will make alterations and improvements at a cost of $25,000, it was said.
 
-On Aug 12, 1956, the _Sun_ published a nostalgic reminisce by Helen Bond Crane titled “…Eutaw Place in Its Finest Days,” that described what she saw as a declining neighborhood between the 1910s and 1940s, writing:
+On Aug 12, 1956, the _Sun_ published a nostalgic reminisce by Helen Bond Crane titled "…Eutaw Place in Its Finest Days," that described what she saw as a declining neighborhood between the 1910s and 1940s, writing:
 
 > With the exodus of many of the old families to Roland Park and other suburbs, beginning about 1910, deterioration set in. Property values went down; old houses were converted to apartments; the ornate fountains were demolished and replaced by concrete slabs, as were most of the large circular flower beds. When, after an absence of many years, I came back to Baltimore in the 1940's and found myself living in the Cecil Apartments just below Dolphin street, the shock was painful.
 
-On Dec 23, 1961, the _Afro-American_ reported on the criminal conviction of Mrs. Lavanya X. Hammond, a resident of 1700 Eutaw Place, on charges of “soliciting for immoral purposes” and “permitting her apartment to be used for prostitution.” The prosector reportedly told the judge that Mrs. Hammond had a “long history of prostitution” with a record of 10 convictions, dating back to 1931.
+On Dec 23, 1961, the _Afro-American_ reported on the criminal conviction of Mrs. Lavanya X. Hammond, a resident of 1700 Eutaw Place, on charges of "soliciting for immoral purposes" and "permitting her apartment to be used for prostitution." The prosector reportedly told the judge that Mrs. Hammond had a "long history of prostitution" with a record of 10 convictions, dating back to 1931.
 
 Leslie M. Freudenheim reported for the Sun on November 1, 1977, writing:
 
@@ -59,7 +64,7 @@ On Apr 26, 1981, the _Baltimore Sun_ reported:
 > The Kensett House Apartments, as they will now be called, were named after Thomas Kensett, an oyster packer who built the front portion o the building as a private home in the late 1800s. After a later addition, the building was converted into apartments, said Marty Bement, manager of the local Clark office.
 > There will be extensive interior renovations, Mr. Bement said, adding that the building is listed on the federal historic register. The brick will be cleaned to return the exterior of the building to its original appearance and the tiles on the Mansard roof will be returned to their original color. Interior details such as shutters, scrollwork and glazed tiles will be retained, he added. Amy Gould of Nichols-Gould is the architect for the apartment renovation.
 
-On February 7, 1982, the Sun reported on “Two old mansions becoming apartments” comparing the rehabilitation of the 1700 Eutaw Place building to the renovation of the Gunther Mansion in Butcher’s Hill and its conversion into 8 apartments for almost $500,000.
+On February 7, 1982, the Sun reported on "Two old mansions becoming apartments" comparing the rehabilitation of the 1700 Eutaw Place building to the renovation of the Gunther Mansion in Butcher’s Hill and its conversion into 8 apartments for almost $500,000.
 
 On September 15, 1997, Suzanne E. Stipe reported for the Baltimore Business Journal, describing the challenges facing 1700 Eutaw Place and other apartment buildings around the country in the face of planned changes to a HUD rental subsidy program. The article notes:
 
@@ -71,7 +76,7 @@ On September 15, 1997, Suzanne E. Stipe reported for the Baltimore Business Jour
 > The reason rents at buildings like Kensett House often are higher than the market is HUD's traditional way of writing contracts. HUD provided for annual inflation increases and took into account the administrative costs of participating in the program as well as the costs of upkeep. Also, sometimes HUD-subsidized rents are higher than rents in the same area because other buildings' rent values may not have increased at the same pace or have decreased.
 > The owners of Kensett House, for instance, have made more than $75,000 worth of capital improvements over the past three years to the facility, which is designated as an historical building. These upkeep costs are a little higher than average because strict rules must be followed when renovating historical properties, Campbell said.
 > Kensett House's owners have decided to participate in the voluntary demonstration program and may try to restructure the mortgage. Restructuring negotiations could take the full six months of the contract extension granted under the demonstration program, Campbell said.
-> ”We have to look at ... what is best for the partnership," Campbell said.
+> "We have to look at ... what is best for the partnership," Campbell said.
 
 In recent years, the Kensett House has struggled, selling at foreclosure on 10/23/2002 for $78,627.45 ([Source](http://portal.hud.gov/hudportal/documents/huddoc?id=pmplps.pdf)). At a meeting of the Mount Royal Improvement Association on April 13, 2004, the attendees discussed the Kennett House, as the [meeting minutes](http://www.boltonhill.org/mria/minutes/m_minutes04.htm) note:
 
