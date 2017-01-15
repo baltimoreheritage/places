@@ -1,1 +1,16 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:        Baltimore Places
+tagline:      An inventory of historic places in Baltimore, Maryland.
+
+# About/contact
+author:
+  name:       Baltimore Heritage
+  url:        https://baltimoreheritage.org
+
+# Gems
+gems:
+  - jekyll-titles-from-headings
+  - gemoji
+  - jekyll-readme-index
