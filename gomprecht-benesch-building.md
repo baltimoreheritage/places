@@ -39,7 +39,7 @@ The transoms are small and have multiple lights. Brick piers separate the window
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Signs of improvement. Less smoke after 14 hours of fighting fire at abandoned building on N Eutaw &amp; Mulberry <a href="https://t.co/2EBPryxhEX">pic.twitter.com/2EBPryxhEX</a></p>&mdash; Kelly Andersen FOX45 (@KellyFox45) <a href="https://twitter.com/KellyFox45/status/820622547419013121">January 15, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Historical Images
+## Historic Images
 
 ![Portrait of Jacob Gomprecht, c. 1910. Courtesy The Jews of Baltimore, Internet Archive.]({{ absolute_url }}/places/assets/images/1910-jacob-gomprecht-jewsofbaltimoreh00blum_0407.jpg)
 
