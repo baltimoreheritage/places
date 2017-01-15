@@ -8,6 +8,8 @@ excerpt: "The Gomprecht and Benesch Building is a good example of an early 20th 
 
 _The summary, description, and history are excerpted from the [Maryland Inventory of Historic Properties form](https://mht.maryland.gov/secure/medusa/PDF/Baltimore%20City/B-2264.pdf) prepared by Janet L. Davis, Historical Preservation Analyst for CHAP in April 1986._
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s what&#39;s left of 320 N. Eutaw St following last night&#39;s 4 alamer. 6 story, unoccupied at time of blaze. No injuries <a href="https://twitter.com/wbalradio">@wbalradio</a> <a href="https://twitter.com/hashtag/mdnews?src=hash">#mdnews</a> <a href="https://t.co/QLgZuyh6mk">pic.twitter.com/QLgZuyh6mk</a></p>&mdash; Jim Russ (@JimWBALTraffic) <a href="https://twitter.com/JimWBALTraffic/status/820713653225816064">January 15, 2017</a></blockquote>
+
 ## Summary
 
 The Gomprecht and Benesch Building is a six-story brick commercial building in a Renaissance Revival style erected in 1901 on the west side of North Eutaw Street about 100 feet south of West Mulberry Street in central Baltimore, Maryland. The five-bay facade has large industrial plate glass vertical pivot windows flanked by Ionic and Corinthian columns. The heavy overhanging cornice has dentils, foliated modillions, and lion heads. The Roman brick side piers have medallions and lion heads below the intermediate cornice. The street level storefront is altered and consists of plate glass windows across the entire front flanked by polished granite panels at the sides. The entrance has been relocated to the north elevation. In 1986, the building was occupied by a printing service. The building was later used by The Tunnel nightclub which closed in 2002.
@@ -15,6 +17,12 @@ The Gomprecht and Benesch Building is a six-story brick commercial building in a
 The building caught on fire in the late evening hours of Saturday, January 14, 2017 . On Sunday, January 15, 2017,  [the  _Baltimore Sun_](http://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-ci-eutaw-fire-20170115-story.html) reported that Baltimore City Fire Department Chief Roman Clark said the building "continued burning Sunday afternoon as collapsed floors have blocked firefighters from the flames".
 
 ![Detail of the cornice of the Gomprecht and Benesch Building, March 1986. Photograph by Janet Davis.]({{ absolute_url }}/places/assets/images/1986-03-janet-davis-gomprecht-benesch-building-cornice-detail.jpg)
+
+## Recent Updates
+
+- [Four-alarm fire at vacant building downtown](http://www.baltimoresun.com/news/maryland/baltimore-city/bal-four-alarm-fire-at-vacant-building-downtown-20170114-photogallery.html), _Baltimore Sun_, January 15, 2017
+- [Fire at former Baltimore nightclub near Lexington Market still burning Sunday](http://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-ci-eutaw-fire-20170115-story.html), _Baltimore Sun_, January 15, 2017
+- [City fire crews battling 4 alarm fire in downtown Baltimore](http://foxbaltimore.com/news/local/city-fire-crews-battling-3-alarm-fire), WBFF Fox 45, January 14, 2017
 
 ## Building History
 
@@ -33,6 +41,8 @@ The upper facade is virtually unaltered Roman brick piers frame the bays. The fa
 The transoms are small and have multiple lights. Brick piers separate the windows, alternating with larger piers between each pair. The side piers have lion heads and lozenge medallions. The main cornice has a wide overhang with foliated modillions, dentils, and lion heads.
 
 ## January 2017 Fire
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">4 alarm fire 300 bulk of N. Eutaw St. F.F. are still at the scene on the 6 story bldg. Bldg was vacant and no injuries reported. <a href="https://t.co/jyt4a7tYTK">pic.twitter.com/jyt4a7tYTK</a></p>&mdash; Baltimore Fire (@BaltimoreFire) <a href="https://twitter.com/BaltimoreFire/status/820439468574461953">January 15, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/BaltimoreFire">@BaltimoreFire</a> on scene of 4-alarm vacant building Mulberry / Eutaw. <a href="https://t.co/zlj2ipRJD0">pic.twitter.com/zlj2ipRJD0</a></p>&mdash; Karl Ferron (@lightforall) <a href="https://twitter.com/lightforall/status/820449874986536961">January 15, 2017</a></blockquote>
 
