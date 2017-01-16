@@ -1,6 +1,7 @@
 ---
 title: "Testimony for the Special Commission to Review Baltimore's Public Confederate Monuments"
 date: 2015-10-29
+excerpt: "Baltimore Heritage is pleased to support the Mayor and the members of the Commission in your work reviewing Baltimore’s public Confederate monuments."
 ---
 
 ## Introduction
