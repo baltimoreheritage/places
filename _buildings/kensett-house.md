@@ -1,12 +1,12 @@
 ---
 title: "Kensett House Apartments"
 excerpt: "Originally built in the 1890s by Thomas Kennett as a residence, the building was expanded and converted into apartments around 1906."
-address: "1700 Eutaw Place"
-zipcode: 21217
 map:
   lat: "39.3068736"
   lon: "-76.632604"
   style: "baltimoreheritage/ciy0crqno003o2sp6o36xl56m"
+  address: "1700 Eutaw Place"
+  zipcode: 21217
 ---
 
 By August 30, 1867, the Sun reported on development in the area of Eutaw Place in glowing terms, writing:
