@@ -64,7 +64,7 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Baltimore Heritage"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "..."
+  bio              : "Founded in 1960, Baltimore Heritage, Inc. is Baltimore’s nonprofit historic and architectural preservation organization."
   location         : "Baltimore, Maryland, USA"
   email            : info@baltimoreheritage.org
   uri              :
@@ -266,4 +266,6 @@ defaults:
       city: "Baltimore"
       state: "MD"
 
-mapbox-access-token: pk.eyJ1IjoiYmFsdGltb3JlaGVyaXRhZ2UiLCJhIjoiY2l5MGIxczFzMDA2NzMza2Q1djQzdzl6NCJ9.ADI5RTi7Gcho20qoHBOQaQ
+mapbox:
+  access-token: pk.eyJ1IjoiYmFsdGltb3JlaGVyaXRhZ2UiLCJhIjoiY2l5MGIxczFzMDA2NzMza2Q1djQzdzl6NCJ9.ADI5RTi7Gcho20qoHBOQaQ
+  style: baltimoreheritage/ciy0crqno003o2sp6o36xl56m

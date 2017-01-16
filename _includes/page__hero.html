@@ -17,7 +17,7 @@
 {% endif %}
 
 {% if page.map %}
-  {% capture overlay_img_path %}https://api.mapbox.com/styles/v1/{% if page.map.style %}{{ page.map.style }}{% else %}mapbox/streets-v8{% endif %}/static/{{ page.map.lon }},{{ page.map.lat }},{% if page.map.zoom %}{{ page.map.zoom }}{% else %}16{% endif %}/1280x1280?access_token={{ site.mapbox-access-token }}{% endcapture %}
+  {% capture overlay_img_path %}https://api.mapbox.com/styles/v1/{% if page.map.style %}{{ page.map.style }}{% else %}{{ site.mapbox.style }}{% endif %}/static/{{ page.map.lon }},{{ page.map.lat }},{% if page.map.zoom %}{{ page.map.zoom }}{% else %}16{% endif %}/1280x1280?access_token={{ site.mapbox.access-token }}{% endcapture %}
 {% endif %}
 
 {% if page.header.overlay_filter contains "rgba" %}
@@ -38,6 +38,11 @@
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
+      {% if page.map %}
+        <p class="page__meta">
+          {{ page.map.address }}, {{ page.map.zipcode }}&nbsp;<a href="https://www.google.com/maps?q&layer=c&cbll={{ page.map.lat }},{{ page.map.lon }}&cbp=11"><i class="fa fa-street-view"></i></a>
+        </p>
+      {% endif %}
       {% if page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
@@ -54,6 +59,6 @@
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
   {% elsif page.map %}
-  <span class="page__hero-caption">Map: © <a href="https://www.mapbox.com/about/maps/">Mapbox</a></span>
+  <span class="page__hero-caption">©&nbsp;<a href="https://www.mapbox.com/about/maps/">Mapbox</a></span>
   {% endif %}
 </div>
