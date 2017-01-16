@@ -2,8 +2,8 @@
 main:
   - title: "Buildings"
     url: https://baltimoreheritage.github.io/places/buildings/
-  - title: "About"
-    url: https://baltimoreheritage.github.io/places/about/
+#  - title: "About"
+#    url: https://baltimoreheritage.github.io/places/about/
   - title: "Baltimore Heritage"
     url: https://baltimoreheritage.org/
   - title: "Explore Baltimore Heritage"
