@@ -21,7 +21,7 @@
         {% else %}
           "{{ img.url | absolute_url }}"
         {% endif %}
-        {% if img.title %}title="{{ img.title }}"{% endif %}
+        {% if img.title %}title="{{ img.title }} | Courtesy {{ img.source }}"{% endif %}
       >
         <img src=
           {% if img.image_path contains "://" %}
