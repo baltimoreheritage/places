@@ -18,11 +18,19 @@ The building caught on fire in the late evening hours of Saturday, January 14, 2
 
 ![Detail of the cornice of the Gomprecht and Benesch Building, March 1986. Photograph by Janet Davis.]({{ absolute_url }}/places/assets/images/1986-03-janet-davis-gomprecht-benesch-building-cornice-detail.jpg)
 
+_Courtesy the Maryland Historical Trust._
+
 ## Recent Updates
 
+- [Baltimore City fire crews battling 4-alarm fire downtown](http://www.abc2news.com/news/region/baltimore-city/baltimore-city-fire-crews-battling-3-alarm-fire-downtown), WMAR, January 14, 2017
+- [Firefighters respond to 4-alarm blaze downtown Saturday night](http://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-ci-downtown-fire-20170114-story.html), Jessica Anderson, _Baltimore Sun_, January 14, 2017
+- [City fire crews battling 4 alarm fire in downtown Baltimore](http://foxbaltimore.com/news/local/city-fire-crews-battling-3-alarm-fire), WBFF Fox 45, January 14, 2017
+- [Fire Investigating Scene Of 4-Alarm Fire In Downtown Baltimore](http://baltimore.cbslocal.com/2017/01/14/three-alarm-fire-in-mt-vernon/), CBS Baltimore, January 14, 2017
+- [Firefighters battle 4-alarm fire in downtown Baltimore](http://www.wbaltv.com/article/firefighters-battle-4-alarm-fire-in-downtown-baltimore/8600069), WBAL-TV, January 15, 2017
 - [Four-alarm fire at vacant building downtown](http://www.baltimoresun.com/news/maryland/baltimore-city/bal-four-alarm-fire-at-vacant-building-downtown-20170114-photogallery.html), _Baltimore Sun_, January 15, 2017
 - [Fire at former Baltimore nightclub near Lexington Market still burning Sunday](http://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-ci-eutaw-fire-20170115-story.html), _Baltimore Sun_, January 15, 2017
-- [City fire crews battling 4 alarm fire in downtown Baltimore](http://foxbaltimore.com/news/local/city-fire-crews-battling-3-alarm-fire), WBFF Fox 45, January 14, 2017
+- [Three North Eutaw Street properties return to auction](http://www.bizjournals.com/baltimore/print-edition/2011/05/06/three-north-eutaw-street-properties.html), Baltimore Business Journal, May 6, 2011
+- [Nightclub might not stay shut for long: Owner of the Tunnel files papers applying for different use permit](http://articles.baltimoresun.com/2002-07-16/news/0207160107_1_club-banquet-hall-benjamin), Scott Calvert, _Baltimore Sun_, July 16, 2002
 
 ## Building History
 
@@ -32,7 +40,11 @@ In 1883, Isaac Benesch opened a branch of his furniture store at 549-553 North G
 
 One source, _[The Jews of Baltimore](https://archive.org/details/jewsofbaltimoreh00blum)_ by Isidor Blum (1910), stated the Gomprecht and Benesch Building was built the same year that Benesch joined the company. The city directories seem to support this, listing the store as 316-318 North Eutaw before 1900 and 316-320 after 1900, suggesting expansion to an existing building on the lot. The facade's close resemblance to the Bernheimer Brothers Annex on West Fayette Street suggests a common architect and about 1907 as the construction date.
 
+Later known as the Maran Building, the property was [listed at auction in 2010](http://www.ajbillig.com/past-auctions/type/commercial-industrial/Downtown-Market-Center--312-and-320-N-Eutaw-Stre-2010-11-04) along with the adjoining C&P Telephone Building.
+
 ## Building Description
+
+_A.J. Billing & Co. published [floor plans for 312-322 N. Eutaw Street]({{ absolute_url }}/places/assets/pdf/eutaw320_322_floorplans.pdf) in advance of the November 2010._
 
 The building has six stories, a flat sloping roof, and an elaborate columned facade. The first story storefront is altered. Between polished granite piers, a slightly projecting window wall extends across the front. The entrance has been shifted to the north elevation, formerly a party wall but now partially exposed by the setback of the modern adjoining building. The original transom is recessed behind an awning framework. Above the transom is a sign panel bearing the name of the current occupant Maran Printing Services, and the street number. Flanking the sign panel on each pier is a lion head above a rectangular medallion.
 
@@ -53,6 +65,16 @@ The transoms are small and have multiple lights. Brick piers separate the window
 
 ![Portrait of Jacob Gomprecht, c. 1910. Courtesy The Jews of Baltimore, Internet Archive.]({{ absolute_url }}/places/assets/images/1910-jacob-gomprecht-jewsofbaltimoreh00blum_0407.jpg)
 
+_Courtesy the [Internet Archive](https://archive.org/details/jewsofbaltimoreh00blum)._
+
 ![Gomprecht & Benesch on Eutaw Street, c. 1910. Courtesy The Jews of Baltimore, Internet Archive.]({{ absolute_url }}/places/assets/images/1910-gomprecht-benesch-jewsofbaltimoreh00blum_0509.jpg)
 
+_Courtesy the [Internet Archive](https://archive.org/details/jewsofbaltimoreh00blum)._
+
 ![View of the Gomprecht and Benesch Building, 1976. Photograph by Bill Pencek.]({{ absolute_url }}/places/assets/images/1976-bill-pencek-gomprecht-benesch-building.jpg)
+
+_View of the Gomprecht and Benesch Building, 1976. Photograph by Bill Pencek. Courtesy the Maryland Historical Trust._
+
+![Sales catalogue from Gomprecht & Benesch for private three-day sale.](http://jmm.pastperfect-online.com/00005images/140/1995031003.JPG)
+
+_Sales catalogue from Gomprecht & Benesch for private three-day sale. Courtesy the Jewish Museum of Maryland, [1995.031.003](http://jmm.pastperfect-online.com/00005cgi/mweb.exe?request=record;id=53B9C081-E999-4FF0-8548-287101665539;type=301)._
