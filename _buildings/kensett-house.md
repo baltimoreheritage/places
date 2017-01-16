@@ -1,18 +1,21 @@
 ---
 title: "Kensett House Apartments"
+excerpt: "Originally built in the 1890s by Thomas Kennett as a residence, the building was expanded and converted into apartments around 1906."
 address: "1700 Eutaw Place"
-layout: default
+zipcode: 21217
+map:
+  lat: "39.3068736"
+  lon: "-76.632604"
+  style: "baltimoreheritage/ciy0crqno003o2sp6o36xl56m"
 ---
-
-## Kensett House Apartments – 1700 Eutaw Place
-
-![Kensett House Apartments at the northwest corner of Wilson Street and Eutaw Place](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12311136_10208597466080411_2013506429300905170_n.jpg?oh=977cedf00a5a12c6a80697ff8db13a99&oe=56E1FA7B)
 
 By August 30, 1867, the Sun reported on development in the area of Eutaw Place in glowing terms, writing:
 
 > Dwelling Improvements in the Western Section. A visit to the vicinity of Eutaw place, Lafayette square, or to that section of the city north and west of Madison avenue, will convince the most skeptical that Baltimore is improving to a degree which will astonish many, and gratify all who have the prosperity of the city at heart.
 
-On Jul 1, 1875, the Sun reported on the Mayor’s approval for an ordinance "to curb Eutaw square, between Wilson street and North avenue, with six-inch granite curb."
+On July 1, 1875, the Sun reported on the Mayor’s approval for an ordinance "to curb Eutaw square, between Wilson street and North avenue, with six-inch granite curb."
+
+![Kensett House Apartments at the northwest corner of Wilson Street and Eutaw Place](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12311136_10208597466080411_2013506429300905170_n.jpg?oh=977cedf00a5a12c6a80697ff8db13a99&oe=56E1FA7B)
 
 On May 21, 1877, the Sun reported on improvements to the parks and fountains, writing:
 
@@ -22,7 +25,7 @@ On May 21, 1877, the Sun reported on improvements to the parks and fountains, wr
 
 According to an account from 1982, the home at 1700 Eutaw Place was originally constructed in the 1890s by Thomas Kennett.
 
-On Feb 9, 1906, the _Sun_ reported on a proposal to cover the former mansion at 1700 Eutaw Place into a new apartment building with a new story on top and a major addition to the rear:
+On February 9, 1906, the _Sun_ reported on a proposal to cover the former mansion at 1700 Eutaw Place into a new apartment building with a new story on top and a major addition to the rear:
 
 > The Navarre Realty Company applied for a permit to erect a four-story addition to the apartment house at the northwest corner of Eutaw Place and Wilson street, A deed has been recorded transferring the Wood residence to the Navarre Realty Company. The property was originally transferred from Mrs. Laura A. Wood to Mr. John D. Byrd, who transferred it to the realty company.
 > It will be converted into an apartment house. The addition is to be 45 by 180 feet and is to cost $22,500.
@@ -82,4 +85,4 @@ In recent years, the Kensett House has struggled, selling at foreclosure on 10/2
 
 > Kensett House, 1700 Eutaw, was sold by HUD to the current owner with a deed restriction to reduce density to 16 units. The owner attempted to have the restriction lifted and to allow 18 units. MRIA wrote a letter to HUD, objecting to the change. HUD’s response is that there will be no change without the support of MRIA.
 
-The owners of the Kensett House applied to the state historic tax credit program for support three times, in fiscal 2006, 2009, and 2010, before being granted a commercial credit in fiscal 2013. ([Source](http://dls.state.md.us/data/polanasubare/polanasubare_taxnfispla/Draft-Evaluation-of-the-Sustainable-Communities-Tax-Credit.pdf)). The building was sold at auction on 3/24/09 to the owner of 1808 Eutaw Place. ([Source](http://ip-72-167-87-238.ip.secureserver.net/bspeak/forum/index.php?action=display&forumid=8&msgid=87))
+The owners of the Kensett House applied to the state historic tax credit program for support three times, in fiscal 2006, 2009, and 2010, before being granted a commercial credit in fiscal 2013. ([Source](http://dls.state.md.us/data/polanasubare/polanasubare_taxnfispla/Draft-Evaluation-of-the-Sustainable-Communities-Tax-Credit.pdf)). The building was sold at auction on March 24, 2009 to the owner of 1808 Eutaw Place. ([Source](http://ip-72-167-87-238.ip.secureserver.net/bspeak/forum/index.php?action=display&forumid=8&msgid=87))

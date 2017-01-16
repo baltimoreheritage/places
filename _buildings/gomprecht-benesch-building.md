@@ -1,10 +1,14 @@
 ---
-layout: default
-address: "320 North Eutaw Street"
+title: "Gomprecht and Benesch Building (1901)"
 excerpt: "The Gomprecht and Benesch Building is a good example of an early 20th century retail store building. It closely resembles the Bernheimer Brothers Annex (B-2314) on West Fayette Street, suggesting that both buildings were designed by the same architect, Charles E, Cassell. Gomprecht and Benesch and its predecessor company, Eutaw Furniture Company, were located on the site from 1883 until 1962."
+date: 2016-01-16
+address: "320 N. Eutaw Street"
+zipcode: "21201"
+map:
+  lat: "39.2935048"
+  lon: "-76.6237681"
+  style: "baltimoreheritage/ciy0crqno003o2sp6o36xl56m"
 ---
-
-# Gomprecht and Benesch Building (1901)
 
 _The summary, description, and history are excerpted from the [Maryland Inventory of Historic Properties form](https://mht.maryland.gov/secure/medusa/PDF/Baltimore%20City/B-2264.pdf) prepared by Janet L. Davis, Historical Preservation Analyst for CHAP in April 1986._
 
