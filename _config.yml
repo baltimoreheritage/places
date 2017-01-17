@@ -235,6 +235,12 @@ collections:
   buildings:
     output: true
     permalink: /:path/
+  timelines:
+    output: true
+    permalink: /:collection/:path/
+  maps:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -265,6 +271,22 @@ defaults:
       share: true
       city: "Baltimore"
       state: "MD"
+  # _timelines
+  - scope:
+      path: ""
+      type: timelines
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _maps
+  - scope:
+      path: ""
+      type: maps
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 mapbox:
   access-token: pk.eyJ1IjoiYmFsdGltb3JlaGVyaXRhZ2UiLCJhIjoiY2l5MGIxczFzMDA2NzMza2Q1djQzdzl6NCJ9.ADI5RTi7Gcho20qoHBOQaQ
