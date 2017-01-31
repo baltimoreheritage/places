@@ -1,7 +1,10 @@
 ---
 title: "Gomprecht and Benesch Building (1901)"
-excerpt: "The Gomprecht and Benesch Building is a good example of an early 20th century retail store building. It closely resembles the Bernheimer Brothers Annex (B-2314) on West Fayette Street, suggesting that both buildings were designed by the same architect, Charles E, Cassell. Gomprecht and Benesch and its predecessor company, Eutaw Furniture Company, were located on the site from 1883 until 1962."
-date: 2016-01-16
+date: 2017-01-16
+excerpt: "The Gomprecht and Benesch Building (also known as the Maran Building or The Tunnel nightclub) is a good example of an early 20th century retail store building. It closely resembles the Bernheimer Brothers Annex (B-2314) on West Fayette Street, suggesting that both buildings were designed by the same architect, Charles E. Cassell. Gomprecht and Benesch and its predecessor company, Eutaw Furniture Company, operated on the site from 1883 until 1962."
+building:
+  architect: Charles E. Cassell
+  mihp_id: B-2264
 map:
   lat: "39.2935018"
   lon: "-76.6237713"
@@ -73,7 +76,7 @@ Later known as the Maran Building, the property was [listed at auction in 2010](
 
 ## Building Description
 
-_A.J. Billing & Co. published [floor plans for 312-322 N. Eutaw Street]({{ absolute_url }}/places/assets/pdf/eutaw320_322_floorplans.pdf) in advance of the November 2010._
+_A.J. Billing & Co. published [floor plans for 312-322 N. Eutaw Street]({{ absolute_url }}/places/assets/pdf/eutaw320_322_floorplans.pdf) in advance of the November 2010 auction._
 
 The building has six stories, a flat sloping roof, and an elaborate columned facade. The first story storefront is altered. Between polished granite piers, a slightly projecting window wall extends across the front. The entrance has been shifted to the north elevation, formerly a party wall but now partially exposed by the setback of the modern adjoining building. The original transom is recessed behind an awning framework. Above the transom is a sign panel bearing the name of the current occupant Maran Printing Services, and the street number. Flanking the sign panel on each pier is a lion head above a rectangular medallion.
 
