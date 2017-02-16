@@ -6,7 +6,7 @@ header:
   teaser: https://c2.staticflickr.com/8/7436/16250618970_cda401fcc8_h.jpg
   overlay_image: https://c2.staticflickr.com/8/7436/16250618970_cda401fcc8_h.jpg
   overlay_filter: .5
-  overlay_caption: "Postcard view of Saint Paul Place, c. 1960s. Courtesy [Kevin Mueller/Flickr](https://www.flickr.com/photos/37640374@N04/16250618970/)."
+  caption: "Postcard view of Saint Paul Place, c. 1960s. Courtesy [Kevin Mueller/Flickr](https://www.flickr.com/photos/37640374@N04/16250618970/)."
 ---
 
 <div class="full">

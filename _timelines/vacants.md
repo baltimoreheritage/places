@@ -6,7 +6,7 @@ header:
   teaser: https://c1.staticflickr.com/5/4009/4223437536_dd916e51d4_o.jpg
   overlay_image: https://c1.staticflickr.com/5/4009/4223437536_dd916e51d4_o.jpg
   overlay_filter: .5
-  overlay_caption: "Vacant Rowhouses, 2009 November 13. Courtesy [Eli Pousson/Flickr](https://www.flickr.com/photos/elipousson/4223437536/) ([CC 0](https://creativecommons.org/publicdomain/zero/1.0/))"
+  caption: "Vacant rowhouses, 2009 November 13. Courtesy [Eli Pousson/Flickr](https://www.flickr.com/photos/elipousson/4223437536/) ([CC 0](https://creativecommons.org/publicdomain/zero/1.0/))"
 ---
 
 <div class="full">

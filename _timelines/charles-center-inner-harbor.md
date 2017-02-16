@@ -6,7 +6,7 @@ header:
   teaser: https://c1.staticflickr.com/5/4100/4767733348_09e5b3db44_o.jpg
   overlay_image: https://c1.staticflickr.com/5/4100/4767733348_09e5b3db44_o.jpg
   overlay_filter: .5
-  overlay_caption: "Musicians performing at Charles Center, 1977 August 6-7 from Robert Breck Chapman (RBC) Collection. Courtesy [Special Collections, Langsdale Library, University of Baltimore](https://www.flickr.com/photos/ubarchives/4767733348/) ([CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/))."
+  caption: "Musicians performing at Charles Center, 1977 August 6-7 from Robert Breck Chapman (RBC) Collection. Courtesy [Special Collections, Langsdale Library, University of Baltimore](https://www.flickr.com/photos/ubarchives/4767733348/) ([CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/))."
 ---
 
 <div class="full">

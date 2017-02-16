@@ -6,7 +6,7 @@ header:
   teaser: https://c2.staticflickr.com/6/5548/9064175572_a3891f926a_b.jpg
   overlay_image: https://c2.staticflickr.com/6/5548/9064175572_a3891f926a_b.jpg
   overlay_filter: .5
-  overlay_caption: "Baltimore Pride Parade, 2013 June 15. Courtesy [Dorret/Flickr](https://www.flickr.com/photos/dorret/9064175572/) ([CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/))"
+  caption: "Baltimore Pride Parade, 2013 June 15. Courtesy [Dorret/Flickr](https://www.flickr.com/photos/dorret/9064175572/) ([CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/))"
 ---
 
 <div class="full">
