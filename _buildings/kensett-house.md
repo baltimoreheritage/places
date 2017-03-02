@@ -4,9 +4,11 @@ excerpt: "Originally built in the 1890s by Thomas Kennett as a residence, the bu
 map:
   lat: "39.3068736"
   lon: "-76.632604"
-  style: "baltimoreheritage/ciy0crqno003o2sp6o36xl56m"
   address: "1700 Eutaw Place"
   zipcode: 21217
+  osm:
+    element: "way"
+    uid: "336402702"
 ---
 
 By August 30, 1867, the Sun reported on development in the area of Eutaw Place in glowing terms, writing:

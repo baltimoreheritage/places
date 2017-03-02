@@ -11,6 +11,9 @@ map:
   style: "baltimoreheritage/ciy0crqno003o2sp6o36xl56m"
   address: "320 N. Eutaw Street"
   zipcode: "21201"
+  osm:
+    element: "way"
+    uid: "336381788"
 gallery:
   - url: /assets/images/1910-jacob-gomprecht-jewsofbaltimoreh00blum_0407.jpg
     image_path: /assets/images/1910-jacob-gomprecht-jewsofbaltimoreh00blum_0407.jpg

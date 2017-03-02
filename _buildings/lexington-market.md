@@ -5,9 +5,11 @@ excerpt: "One of Baltimore's oldest public markets located on the west side of d
 map:
   lat: "39.291674"
   lon: "-76.6236177"
-  style: "baltimoreheritage/ciy0crqno003o2sp6o36xl56m"
   address: "400 W. Lexington Street"
   zipcode: "21201"
+  osm:
+    element: "way"
+    uid: "338029396"
 ---
 
 ![Lexington Market, Baltimore, c. 1898-1931. Courtesy [NYPL](http://digitalcollections.nypl.org/items/510d47d9-a209-a3d9-e040-e00a18064a99).](https://images.nypl.org/index.php?id=68613&t=w)

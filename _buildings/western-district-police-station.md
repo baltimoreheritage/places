@@ -7,9 +7,11 @@ building:
 map:
   lat: "39.3006711"
   lon: "-76.6470943"
-  style: "baltimoreheritage/ciy0crqno003o2sp6o36xl56m"
   address: "1034 N. Mount Street"
   zipcode: "21217"
+  osm:
+    element: "way"
+    uid: "255480986"
 ---
 
 In 1876, the Western District Station moved from its prior location on Greene Street between Baltimore Street and Belvidere Street to a new building on Pine Street. The police continued to use that location from 1876 up until August 31, 1959 when they opened a new station at Riggs Avenue and Mount Street (1034 N. Mount Street). The Western District Station is just one of several stations with near identical designs constructed in a major expansion by the Baltimore City Police Department.
