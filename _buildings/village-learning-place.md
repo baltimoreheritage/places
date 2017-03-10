@@ -7,15 +7,82 @@ building:
 map:
   lat: "39.3186133"
   lon: "-76.617362"
-  style: "baltimoreheritage/ciy0crqno003o2sp6o36xl56m"
   address: "2521 St. Paul Street"
   zipcode: "21218"
+  osm:
+    element: "way"
+    uid: "336368471"
 ---
 
->...the Village Learning Place at 2521 St. Paul Street, which was once a branch of the Enoch Pratt Free Library system, the collection of public libraries created by Enoch Pratt in the late nineteenth century. The Peabody Heights branch, designed by Charles L. Carson, opened November 14, 1896, with 6,500 books. Due to its proximity to Goucher College, the branch was especially popular with college students. In 1906, the lot behind the library was purchased and a garden was planted, which still thrives today. In 1920, electricity replaced gaslights, and in the 1940s, library officials considered closing the Peabody Heights branch and building a larger branch at North Avenue and Calvert Street. Luckily for neighborhood residents, the existing branch was renovated in 1952.
->In 1997, the Peabody Heights branch closed; however, a group of citizens and business owners organized to restore the historic building and reopen it as a community learning place. Since then, the Village Learning Place has been offering educational services for young people and senior citizens and has a collection of over fifteen thousand books available for checkout. Programs include everything from gardening symposiums to wine appreciation to unique, safe after-school programs for Baltimore City students.
+## 1882: Enoch Pratt Free Library established
 
-Excerpt from Alexander, Gregory J., and Paul K. Williams. _A Brief History of Charles Village_. Arcadia Publishing, 2009.
+Enoch Pratt created the Enoch Pratt Free Library in 1882, with a gift of $1,058,333 by to the City of Baltimore to support the construction Central library and four branch libraries and an endowment for their operation. Born in North Middleborough, Massachusetts, Pratt came to Baltimore in 1830. Over the next few decades, Pratt became a successful merchant, railroad director and ship operator. Pratt joined his contemporaries Johns Hopkins, George Peabody, Moses Shepherd, and Thomas Kelso in becoming a philanthropist: serving as a trustee of the Peabody Institute (as treasurer and chairman of its library committee); founding the Maryland School for the Deaf and Dumb in Frederick (1867); and founding the House of Reformation and Instruction for Colored Children at Cheltenham (1870).
+
+The Mayor and City Council accepted Pratt's 1882 gift and Enoch Pratt formally transferred the management of the new libraries to the new Board of Trustees on October 1, 1884. He shared his wish that the library buildings remain "accessible to the people... they being for all, rich and poor, without distinction of race or color, who, when properly accredited, can take out the books if they will handle them carefully and return them."
+
+## January 5, 1886: Central Library branch opens
+
+On January 5, 1886, the Central Library on Mulberry Street opened to patrons followed within the next three months by four branches serving the residential neighborhood of Baltimore including Branch 1 (at Fremont and Pitcher Streets), Branch 2 (at Hollins and Calhoun Streets), Branch 3 (at Light and Gittings Streets), Branch 4 (at Canton and O'Donnell Streets) all designed by architect [Charles L. Carson](https://en.wikipedia.org/wiki/Charles_L._Carson).
+
+## November 14, 1896: Saint Paul Street Branch Library opens with 6,500 books
+
+The library continued to grow throughout the late 19th and early 20th centuries becoming one of the nation's largest library systems in both the size of its collection and the scale of its circulation. Only three public library systems in Boston, Chicago, and Cincinnati had larger collections and only those libraries in Boston, Chicago, and New York enjoyed greater circulation.
+
+Although Charles L. Carson died on December 18, 1891, his partner Joseph Evans Sperry (hired in 1888 as his assistant) carried several of Carson's designs to completion (as the firm as Carson and Sperry). The Saint Paul Street Branch (known in some cases as the Peabody Heights branch) opened on November 14, 1896, with 6,500 books.[^1] Patrons, including many students from nearby Goucher College, began borrowing books with enthusiasm.
+
+[^1]: Alexander, Gregory J., and Paul K. Williams. _A Brief History of Charles Village_. Arcadia Publishing, 2009.]
+
+According to a report in the _Sun_ on Jan 22, 1897, Dr. Steiner commented on "increased usefulness of the branch libraries /[...] saying that more books are circulated in these weekly than at the central library". The library began staying open longer:
+
+>On his recommendation the trustees voted to keep open from 9 A. M. until 9 P. M. instead of only from 2 until 9 P. M., the branches in North and South Baltimore, at the corner of Light and Gittings Streets, and on St. Paul street near Huntingdon avenue. The other branches, with the exception of the one in Canton, were similarly opened about a year ago.
+
+On Jun 22, 1897, the _Sun_ reported on remarks by Dr. Bernard C. Steiner, librarian of the Enoch Pratt Free Library, at the quarterly meeting of the library trustees. Steiner discussed the "marked decrease which has recently been noted in the use of fiction at the Central Library" attributing the change to the "opening of Branch No. 6, on St. Paul street, near Huntingdon avenue, where fiction is borrowed in large quantities."
+
+In 1906, library acquired the lot behind the building and planted a garden. By 1920, electricity had replaced gaslights in the building.[^2]
+
+[^2]: Alexander, Gregory J., and Paul K. Williams. _A Brief History of Charles Village_. Arcadia Publishing, 2009.
+
+## 1952:  Saint Paul Street Branch Library renovated
+
+In the 1940s, the library considered closing the St. Paul Street Branch and building a larger facility at North Avenue and Calvert Street. Fortunately for nearby patrons, the plans never developed. Instead, the existing branch was renovated in 1952.[^3]
+
+[^3]: Alexander, Gregory J., and Paul K. Williams. _A Brief History of Charles Village_. Arcadia Publishing, 2009.
+
+A growing African American population in many Baltimore neighborhoods in the 1950s, however, left library officials (who had maintained segregated hiring practices up through the 1940s) uncertain how to respond. A 1955 report (quoted in the _Sun_ on January 30, 1955) obliquely referenced the issue "Population shifts in the city are at the present time occurring so rapidly, and new branches already erected are affecting the library service ... /[it] is unwise to make definite predictions concerning changes or improvement needs for some branches." The report proceeded to list the St. Paul Street Branch along with locations at "Fremont and Pitcher, Light and Gittings, Ellwood and O’Donnell, 816 North Broadway... Falls road. South Central, Barre and Carroll, Keyworth avenue, Wolfe and Twentieth, South Ann, South Loudon, Roland avenue and Belair road and LaSalle."  The _Sun_ quoted library director Amy Winslow on "the effects of population on library services" commenting:
+
+>“Sparsely settled areas call for one type of library service, densely populated areas for' another. Certain characteristics predominate in .one type of population, others in another. One community, because of these characteristics, makes heavy demands on a library; in another community a large percentage of the population may have little interest in reading or be unskilled in the use of books. Needs in such an area are of an entirely different character, but the obligation of the library to meet the needs of the people is of equal importance in any area of the city."[^4]
+
+[^4]: The Sun account includes details on the library system's growth from the 1940s to the mid 1950s and related funding challenges.
+
+The growth of the system after WWII, however, may have stretched budgets as by June 1957, Amy Winslow, Enoch Pratt Free library director, announced that all branches (although not the Central Branch) would close on Saturdays between June 24 and August.
+
+By the late 1950s and 1960s, the Enoch Pratt Free Library began offering a growing variety of programs to patrons. On Nov 3, 1957, the _Sun_ reported on the "the traditional lighting of a 'wishing candle'"" that libraries used to mark the beginning of the Enoch Pratt Free Library's fall and winter story hours with weekly sessions presenting fairy tales, and folk tales, and modern stories. At the St. Paul Street Branch, children could come listen to stories on Wednesdays at 3:30 p.m. Barbara S. Moody, the library’s "assistant coordinator of work with children" directed the "story-hour program." On June 9, 1962, the _Sun_ reported:
+
+>Special read-aloud sessions offering a variety of favorite children’s books will be the summer activity at several branches. These arc: Northwood branch, Wednesdays, 2 P.M., June 18 through August 1; St. Paul street branch, Fridays, 1.30 P.M., June 15 through July 20, and Cherry Ilill station, Thursdays, 10.30 A.M., June 21 through August 2.
+
+On July 23, 1969, the _Sun_ reported on the library's upcoming calendar of movies for adults, teenagers, and children, a puppet play, and other events. "Movies for children" were scheduled for the St. Paul Street branch along with "the Brooklyn, Light street, Patterson Park, Gardenville, Hamilton, Roland Park, Pennsylvania avenue... Govans, Pimlico and Fells Point branches." Movies and film screenings continued in the 1970s such as "The Thirty-nine Steps. Pratt's St. Paul Street Center. Wednesday 6 p.m."  advertised in the _Afro-American_ on June 10, 1978.
+
+Margaret Spencer North served as the director of the St. Paul Street Branch for several years up until her retirement in 1981. North was a Baltimore native who graduated from the Bryn Mawr School and Bryn Mawr College. She returned to Baltimore in 1961 and became a librarian around that time.[^5]
+
+[^5]: See Sun obituary for more. Local relatives identified in the obituary include Jeremy Wethered North, of Baltimore; Valerie B. Gulick, of Arlington, Va.; John Marshall Barroll, of Easton.
+
+On July 5, 1981, the _Sun_ reported on a plan by the Enoch Pratt Free Library to stretch their limited budget by implementing rolling, month-long closures of branches in 1981 and 1982. The Saint Paul Street Branch (then known as the St. Paul Street Center) was scheduled to close in October and reopen November 3.
+
+On June 19, 1984, the _Sun_ reported on a presentation by Enoch Pratt Free Library director Anna Curry presentation to the City Council where she shared plans to "close two small branches located within the Kirk and Reservoir Hill multi-purpose centers and discontinue one of its three bookmobiles because of limited funds". Curry compared deciding which libraries to close to "deciding which of your children to put up for adoption... We do not have a branch that is not well used, relative to the needs of the community.” Curry suggested that the patrons for the Kirk Center at 909 East 22nd Street could use the St. Paul Branch instead.
+
+On May 10, 1990, the _Sun_ reported on additional cutbacks at the Enoch Pratt Library, after a "tight municipal budget proposed by Mayor Kurt L. Schmoke" left director Anna Curry with $1 million less than the library needed to "maintain its current level of service". After Curry presented the news to the City Council's Budget and Appropriations Committee, Councilman Joseph J. DiBlasi (D – 6th) remarked, It looks as though we're becoming a city that reads part time." Curry observed that the library had lost 100 positions over the prior three years. She proposed closing two community reading rooms (or "homework centers") in Lafayette Square (1510 W. Lafayette Street) and in Reservoir Hill (2001 Park Avenue). The Saint Paul Street branch was one of eighteen locations where hours would be reduced.
+
+## 1997:  Saint Paul Street Branch library closes and Village Learning Place opens
+
+A photo feature in  _The Sun_ in 1991, poignantly captioned "A librarian's reward" encouraged readers to reflect on the impact of budget cuts to the library system:
+
+>Children from Margaret Brent Elementary School surround Theresa Edmonds, a librarian at the St- Paul Street branch of the Enoch Pratt Library, at a farewell party. Ms. Edmonds, who has worked at the tiny branch in Charles Village for a year and in the library system for 14 years, is to be laid off Friday — a victim of Baltimore's budget cuts.
+
+In 1997, the library closed but a group of Charles Village residents and local business owners organized to "restore the historic building and reopen it as a community learning place." _A Brief History of Charles Village_ describes the work of the Village Learning Place in the nearly twenty years since:
+
+>Since then, the Village Learning Place has been offering educational services for young people and senior citizens and has a collection of over fifteen thousand books available for checkout. Programs include everything from gardening symposiums to wine appreciation to unique, safe after-school programs for Baltimore City students.[^6]
+
+[^6]: Alexander, Gregory J., and Paul K. Williams. _A Brief History of Charles Village_. Arcadia Publishing, 2009.
 
 # Bibliography
 
