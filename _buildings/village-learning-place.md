@@ -4,10 +4,12 @@ date: 2017-01-26
 excerpt: "This building is a former branch of the Enoch Pratt Free Library that is currently used as the nonprofit Village Learning Place."
 building:
   architect: Charles L. Carson
+header:
+  teaser: https://c1.staticflickr.com/1/617/32483636616_22510e3290_h.jpg
 map:
   lat: "39.3186133"
   lon: "-76.617362"
-  address: "2521 St. Paul Street"
+  address: "2521 Saint Paul Street"
   zipcode: "21218"
   osm:
     element: "way"
@@ -25,6 +27,8 @@ The Mayor and City Council accepted Pratt's 1882 gift and Enoch Pratt formally t
 On January 5, 1886, the Central Library on Mulberry Street opened to patrons followed within the next three months by four branches serving the residential neighborhood of Baltimore including Branch 1 (at Fremont and Pitcher Streets), Branch 2 (at Hollins and Calhoun Streets), Branch 3 (at Light and Gittings Streets), Branch 4 (at Canton and O'Donnell Streets) all designed by architect [Charles L. Carson](https://en.wikipedia.org/wiki/Charles_L._Carson).
 
 ## November 14, 1896: Saint Paul Street Branch Library opens with 6,500 books
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/32371711612/in/photolist-Rut8sh-Rjzu3Q" title="Village Learning Place, Saint Paul Street, Baltimore, MD"><img src="https://c1.staticflickr.com/1/400/32371711612_5af76fb839_c.jpg" width="800" height="600" alt="Village Learning Place, Saint Paul Street, Baltimore, MD"></a>
 
 The library continued to grow throughout the late 19th and early 20th centuries becoming one of the nation's largest library systems in both the size of its collection and the scale of its circulation. Only three public library systems in Boston, Chicago, and Cincinnati had larger collections and only those libraries in Boston, Chicago, and New York enjoyed greater circulation.
 
@@ -77,6 +81,8 @@ On May 10, 1990, the _Sun_ reported on additional cutbacks at the Enoch Pratt Li
 A photo feature in  _The Sun_ in 1991, poignantly captioned "A librarian's reward" encouraged readers to reflect on the impact of budget cuts to the library system:
 
 >Children from Margaret Brent Elementary School surround Theresa Edmonds, a librarian at the St- Paul Street branch of the Enoch Pratt Library, at a farewell party. Ms. Edmonds, who has worked at the tiny branch in Charles Village for a year and in the library system for 14 years, is to be laid off Friday — a victim of Baltimore's budget cuts.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/villagelearningplace/3712014960/in/photolist-9jUAYH-ouHG2i-7PNxqC-6E23HW-osJLuS-Rut8sh-Rjzu3Q" title="Community Residents Protest Closure of Pratt Branch No. 6, 1997"><img src="https://c1.staticflickr.com/4/3482/3712014960_de869febfa_o.jpg" width="885" height="501" alt="Community Residents Protest Closure of Pratt Branch No. 6, 1997"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 In 1997, the library closed but a group of Charles Village residents and local business owners organized to "restore the historic building and reopen it as a community learning place." _A Brief History of Charles Village_ describes the work of the Village Learning Place in the nearly twenty years since:
 
