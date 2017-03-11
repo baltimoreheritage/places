@@ -9,3 +9,16 @@ layout: archive
 {% endfor %}
 
 {% include paginator.html %}
+
+<h3 class="archive__subtitle">Buildings & Timelines</h3>
+
+<div class="grid__wrapper">
+  {% include base_path %}
+  {% for post in site.buildings %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+
+  {% for post in site.timelines %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
