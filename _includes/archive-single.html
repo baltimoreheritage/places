@@ -22,6 +22,10 @@
           {% endif %}
           alt="">
       </div>
+    {% elsif include.type == "grid" and post.map %}
+    <div class="archive__item-teaser">
+      <img src="https://api.mapbox.com/styles/v1/{{ site.mapbox.style }}/static/{{ post.map.lon }},{{ post.map.lat }},17/600x400@2x?access_token={{ site.mapbox.access-token }}" alt="">
+    </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}

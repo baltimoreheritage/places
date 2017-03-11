@@ -269,8 +269,9 @@ defaults:
       layout: building
       author_profile: false
       share: true
-      city: "Baltimore"
-      state: "MD"
+      map:
+        city: "Baltimore"
+        state: "MD"
   # _timelines
   - scope:
       path: ""
@@ -290,4 +291,7 @@ defaults:
 
 mapbox:
   access-token: pk.eyJ1IjoiYmFsdGltb3JlaGVyaXRhZ2UiLCJhIjoiY2l5MGIxczFzMDA2NzMza2Q1djQzdzl6NCJ9.ADI5RTi7Gcho20qoHBOQaQ
-  style: baltimoreheritage/ciy0crqno003o2sp6o36xl56m
+  style: baltimoreheritage/cj04rwfhk004q2slfhz67nvbr
+  zoom: 17.00
+  bearing: 20.00
+  pitch: 45.00

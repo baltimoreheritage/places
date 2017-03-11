@@ -17,7 +17,7 @@
 {% endif %}
 
 {% if page.map %}
-  {% capture overlay_img_path %}https://api.mapbox.com/styles/v1/{% if page.map.style %}{{ page.map.style }}{% else %}{{ site.mapbox.style }}{% endif %}/static/{{ page.map.lon }},{{ page.map.lat }},17,0,60/1280x1280@2x?access_token={{ site.mapbox.access-token }}{% endcapture %}
+  {% capture overlay_img_path %}https://api.mapbox.com/styles/v1/{% if page.map.style %}{{ page.map.style }}{% else %}{{ site.mapbox.style }}{% endif %}/static/{{ page.map.lon }},{{ page.map.lat }},{% if page.map.zoom %}{{ page.map.zoom }}{% else %}{{ site.mapbox.zoom }}{% endif %},{% if page.map.bearing %}{{ page.map.bearing }}{% else %}{{ site.mapbox.bearing }}{% endif %},{% if page.map.pitch %}{{ page.map.pitch }}{% else %}{{ site.mapbox.pitch }}{% endif %}/1280x1280@2x?access_token={{ site.mapbox.access-token }}{% endcapture %}
 {% endif %}
 
 {% if page.header.overlay_filter contains "rgba" %}
