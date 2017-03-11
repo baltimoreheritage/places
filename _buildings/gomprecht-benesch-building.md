@@ -2,13 +2,14 @@
 title: "Gomprecht and Benesch Building (1901)"
 date: 2017-01-16
 excerpt: "The Gomprecht and Benesch Building (also known as the Maran Building or The Tunnel nightclub) is a good example of an early 20th century retail store building. It closely resembles the Bernheimer Brothers Annex (B-2314) on West Fayette Street, suggesting that both buildings were designed by the same architect, Charles E. Cassell. Gomprecht and Benesch and its predecessor company, Eutaw Furniture Company, operated on the site from 1883 until 1962."
+header:
+  teaser: https://c1.staticflickr.com/1/510/32524328675_2bff009748_h.jpg
 building:
   architect: Charles E. Cassell
   mihp_id: B-2264
 map:
   lat: "39.2935018"
   lon: "-76.6237713"
-  style: "baltimoreheritage/ciy0crqno003o2sp6o36xl56m"
   address: "320 N. Eutaw Street"
   zipcode: "21201"
   osm:

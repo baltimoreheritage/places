@@ -2,6 +2,8 @@
 title: "Lexington Market"
 date: 2016-12-04
 excerpt: "One of Baltimore's oldest public markets located on the west side of downtown."
+header:
+  teaser: /assets/images/2016-12-30-lexington-market-best-bull.jpg
 map:
   lat: "39.291674"
   lon: "-76.6236177"
