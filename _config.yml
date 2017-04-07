@@ -269,6 +269,8 @@ defaults:
       layout: building
       author_profile: false
       share: true
+      header:
+        overlay_filter: .5
       map:
         city: "Baltimore"
         state: "MD"
