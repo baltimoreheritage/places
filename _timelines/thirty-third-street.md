@@ -1,7 +1,7 @@
 ---
 title: "Thirty-Third Street: Short History of an Olmsted Parkway"
-date: 2017-04-25
-excerpt: "This timeline on the past and present of the Thirty-Third Street boulevard is created by Eli Pousson based on research and writing by Lauren Schiszik, Duncan Stuart, and Joe Stewart."
+date: 2017-04-24
+excerpt: "This timeline on the past and present of the Thirty-Third Street boulevard is based on research and writing by Lauren Schiszik, Duncan Stuart, and Joe Stewart and was created by Eli Pousson in April 2017."
 header:
   teaser: https://c2.staticflickr.com/4/3956/34005887265_45e3d11569_h.jpg
   overlay_image: https://c2.staticflickr.com/4/3956/34005887265_45e3d11569_h.jpg
