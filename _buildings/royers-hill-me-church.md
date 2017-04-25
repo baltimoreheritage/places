@@ -3,6 +3,10 @@ title: "Royer's Hill Methodist Episcopal Church (1891)"
 excerpt: "A mission church established around 1891 on 24th Street by the leaders of Lovely Lane Church, converted to use as a warehouse and garage by the 1950s."
 date: 2010-01-11
 modified: 2017-04-25
+building:
+  architect: "Rev. Edward L. Watson"
+header:
+  teaser: https://c1.staticflickr.com/1/703/32513101343_67a5e2400e_h.jpg
 map:
   lat: "39.3162626"
   lon: "-76.6225875"
@@ -22,7 +26,6 @@ The 24th Street ME Church was constructed to serve the Royer Hill Church or Roye
 > "By November 1887, the new church listed three mission churches to its credit: the Royer Hill Church, the Guilford Avenue Sunday School and Chapel, and the Oxford Church and Sunday School. Thus, the physical distance between the middle-class members of the congregation and the urban working classes allowed a two-pronged mission to arise: a family ministerial and worship mission focused on the pastoral needs of the suburban members and an outreach mission focused on the perceived religious, moral, and social deficiencies of the urban population."
 
 Located at the southeast corner of East Lanvale Street and Guilford Avenue, the Guilford Avenue Chapel was demolished at some point following 1951. ‎ Located at the northeast corner of Loch Raven Road and Cokesbury Avenue, the Oxford Church and Sunday Schools remains extant and is currently in use as the Jerusalem Baptist Church.
-
 
 ### Rev. Edward L. Watson
 
