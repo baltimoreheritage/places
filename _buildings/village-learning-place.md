@@ -1,6 +1,7 @@
 ---
 title: "Village Learning Place (1896)"
 date: 2017-01-26
+modified: 2017-04-27
 excerpt: "This building is a former branch of the Enoch Pratt Free Library that is currently used as the nonprofit Village Learning Place."
 building:
   architect: "Charles L. Carson"
@@ -110,32 +111,32 @@ For more than a decade since, the Village Learning Place has thrived as a commun
 
 ## Bibliography
 
-“A Chance to Be Heard; Pratt’s Future: Hearings Offer Public a Voice on City Library’s Strategic Plan.: [FINAL Edition].” The Sun; Baltimore, Md. October 24, 1997, sec. EDITORIAL.
-“A Librarian’s Reward: [FINAL Edition].” The Sun; Baltimore, Md. December 3, 1991, sec. METRO.
-Alexander, Gregory J., and Paul K. Williams. A Brief History of Charles Village. Arcadia Publishing, 2009.
-Alvarez, Rafael. “Pratt Proposing Extensive Changes; Closely Guarded Plan for `megabranches’ Worries Some Patrons: [FINAL Edition].” The Sun; Baltimore, Md. March 2, 1997, sec. METRO.
-Alvarez, Rafael, and Martin C. Evans. “Pratt Chief Warns of Cuts in Branch Hours, Services: 2 Reading Rooms Also May Be Closed.” The Sun (1837-1991); Baltimore, Md. May 10, 1990.
-“ANNEX PLANNER DEAD: Owen Brainard, Of New York, Made Study Of Local Developments FINAL REPORT ALMOST READY Spent Considerable Time Here Looking After Civic Center, St. Paul Street And Other Improvements.” The Sun (1837-1991); Baltimore, Md. April 4, 1919.
-Davis, Ron. “City Library to Close 2 Small Branches.” The Sun (1837-1991); Baltimore, Md. June 19, 1984.
-“Denies Permit For Book Shop At 3327 St. Paul St.: Hammond Says He Could Not Approve Store And Library In Residential Section.” The Sun (1837-1991); Baltimore, Md. August 17, 1929.
-“Enoch Pratt Library Reading Trek Planned.” The Sun (1837-1991); Baltimore, Md. June 9, 1962.
-“ENOCH PRATT LIBRARY: Mr. James A. Gary Is Elected President to Succeed the Late Mr. Pratt JUDGE THOMAS J. MORRIS He Is Chosen Vice-President in Place of Mr. Gary An Interesting Report of Librarian Steiner, Showing the Growth of the Central Library and Its Various Branches--Total Number of Books, 176,329.” The Sun (1837-1991); Baltimore, Md. January 22, 1897.
-“‘Fair Play’ Appeals To The Mayor To Close The Pratt Library And Branches On Decemher 26.” The Sun (1837-1991); Baltimore, Md. December 18, 1914.
-“GUARDIANS OF BOOKS: Librarian Steiner, of the Pratt Library, to Attend National and Inter- National Conferences.” The Sun (1837-1991); Baltimore, Md. June 22, 1897.
-“Hours Are Listed By Pratt Library.” The Sun (1837-1991); Baltimore, Md. June 20, 1951.
-“HOURS SET AT LIBRARY: Branches, But Not Central, Close Saturday In Summer.” The Sun (1837-1991); Baltimore, Md. June 11, 1957.
-“Library Story Hours.” The Sun (1837-1991); Baltimore, Md. November 3, 1957.
-“Margaret S. North, Pratt Librarian, Dies.” The Sun (1837-1991); Baltimore, Md. March 5, 1983.
-Matthews, Robert Guy. “City to Close 2 Branches, Cut Other Library Services; Users’ Outcry Greets Money-Saving Moves: [FINAL Edition].” The Sun; Baltimore, Md. August 6, 1997, sec. NEWS.
-———. “Judge Blocks Library Closing; Charles Village Group Wins Temporary Order to Keep Branch Open: [FINAL Edition].” The Sun; Baltimore, Md. August 29, 1997, sec. NEWS.
-“Other 31 -- No Title.” Afro-American (1893-1988); Baltimore, Md. June 10, 1978.
-“Pratt Announces Month-Long Closings of Some Library Branches in 1981-1982.” The Sun (1837-1991); Baltimore, Md. July 5, 1981.
-“Pratt Library: Puppet Play Among Attractions Scheduled Next Week.” The Sun (1837-1991); Baltimore, Md. July 23, 1969.
-Shapiro, Stephanie. “A Good Feeling in Charles Village; City: Residents Find the Strength in Numbers to Fix Problems and Embrace Urban Living.: [FINAL Edition].” The Sun; Baltimore, Md. June 5, 1999, sec. TODAY.
-———. “Lost Chapters; Library: Personal Treasures and Oddities Once Used as Bookmarks Wait in Lost and Found While a Life Story Goes on without Them.: [FINAL Edition].” The Sun; Baltimore, Md. August 6, 1997, sec. FEATURES.
-Stiehm, Jamie. “Bound by Books, Desire; Library: When Its Branch Closed, Charles Village Refused the Final Chapter. Tomorrow, It Turns the Page to a Happy Ending, and New Center.: [FINAL Edition].” The Sun; Baltimore, Md. May 5, 2000, sec. LOCAL.
-———. “Pratt Library Plans Include Modernization, Construction of Four `mini-Central’ Facilities: [FINAL Edition].” The Sun; Baltimore, Md. October 28, 1997, sec. METRO.
-“Sun Was Wrong on Cost of New Branches for Pratt Library Series: SERIES -- Rejoinder: [FINAL Edition].” The Sun; Baltimore, Md. October 28, 1997, sec. EDITORIAL.
-“TO HEAR ‘STORY MOTHER’: Children Registering For Miss Katharine P. Woods Talk FAMOUS WRITER COMES FRIDAY At The St. Paul Branch Of The Pratt Library, She Will Tell The Children What To Read.” The Sun (1837-1991); Baltimore, Md. September 30, 1906.
-“USE OF BOOKS RISES 18.8%: Borrowers At Pratt Library, Professional Aid Also Up.” The Sun (1837-1991); Baltimore, Md. January 30, 1955.
-“WORK OF BRANCH LIBRARIES: Table Showing Progress At Seven Pratt Institutions.” The Sun (1837-1991); Baltimore, Md. December 18, 1906.
+- “A Chance to Be Heard; Pratt’s Future: Hearings Offer Public a Voice on City Library’s Strategic Plan.: [FINAL Edition].” The Sun; Baltimore, Md. October 24, 1997, sec. EDITORIAL.
+- “A Librarian’s Reward: [FINAL Edition].” The Sun; Baltimore, Md. December 3, 1991, sec. METRO.
+- Alexander, Gregory J., and Paul K. Williams. A Brief History of Charles Village. Arcadia Publishing, 2009.
+- Alvarez, Rafael. “Pratt Proposing Extensive Changes; Closely Guarded Plan for 'megabranches' Worries Some Patrons: [FINAL Edition].” The Sun; Baltimore, Md. March 2, 1997, sec. METRO.
+- Alvarez, Rafael, and Martin C. Evans. “Pratt Chief Warns of Cuts in Branch Hours, Services: 2 Reading Rooms Also May Be Closed.” The Sun (1837-1991); Baltimore, Md. May 10, 1990.
+- “ANNEX PLANNER DEAD: Owen Brainard, Of New York, Made Study Of Local Developments FINAL REPORT ALMOST READY Spent Considerable Time Here Looking After Civic Center, St. Paul Street And Other Improvements.” The Sun (1837-1991); Baltimore, Md. April 4, 1919.
+- Davis, Ron. “City Library to Close 2 Small Branches.” The Sun (1837-1991); Baltimore, Md. June 19, 1984.
+- “Denies Permit For Book Shop At 3327 St. Paul St.: Hammond Says He Could Not Approve Store And Library In Residential Section.” The Sun (1837-1991); Baltimore, Md. August 17, 1929.
+- “Enoch Pratt Library Reading Trek Planned.” The Sun (1837-1991); Baltimore, Md. June 9, 1962.
+- “ENOCH PRATT LIBRARY: Mr. James A. Gary Is Elected President to Succeed the Late Mr. Pratt JUDGE THOMAS J. MORRIS He Is Chosen Vice-President in Place of Mr. Gary An Interesting Report of Librarian Steiner, Showing the Growth of the Central Library and Its Various Branches--Total Number of Books, 176,329.” The Sun (1837-1991); Baltimore, Md. January 22, 1897.
+- “‘Fair Play’ Appeals To The Mayor To Close The Pratt Library And Branches On Decemher 26.” The Sun (1837-1991); Baltimore, Md. December 18, 1914.
+- “GUARDIANS OF BOOKS: Librarian Steiner, of the Pratt Library, to Attend National and Inter- National Conferences.” The Sun (1837-1991); Baltimore, Md. June 22, 1897.
+- “Hours Are Listed By Pratt Library.” The Sun (1837-1991); Baltimore, Md. June 20, 1951.
+- “HOURS SET AT LIBRARY: Branches, But Not Central, Close Saturday In Summer.” The Sun (1837-1991); Baltimore, Md. June 11, 1957.
+- “Library Story Hours.” The Sun (1837-1991); Baltimore, Md. November 3, 1957.
+- “Margaret S. North, Pratt Librarian, Dies.” The Sun (1837-1991); Baltimore, Md. March 5, 1983.
+- Matthews, Robert Guy. “City to Close 2 Branches, Cut Other Library Services; Users’ Outcry Greets Money-Saving Moves: [FINAL Edition].” The Sun; Baltimore, Md. August 6, 1997, sec. NEWS.
+- ———. “Judge Blocks Library Closing; Charles Village Group Wins Temporary Order to Keep Branch Open: [FINAL Edition].” The Sun; Baltimore, Md. August 29, 1997, sec. NEWS.
+- “Other 31 -- No Title.” Afro-American (1893-1988); Baltimore, Md. June 10, 1978.
+- “Pratt Announces Month-Long Closings of Some Library Branches in 1981-1982.” The Sun (1837-1991); Baltimore, Md. July 5, 1981.
+- “Pratt Library: Puppet Play Among Attractions Scheduled Next Week.” The Sun (1837-1991); Baltimore, Md. July 23, 1969.
+- Shapiro, Stephanie. “A Good Feeling in Charles Village; City: Residents Find the Strength in Numbers to Fix Problems and Embrace Urban Living.: [FINAL Edition].” The Sun; Baltimore, Md. June 5, 1999, sec. TODAY.
+- ———. “Lost Chapters; Library: Personal Treasures and Oddities Once Used as Bookmarks Wait in Lost and Found While a Life Story Goes on without Them.: [FINAL Edition].” The Sun; Baltimore, Md. August 6, 1997, sec. FEATURES.
+- Stiehm, Jamie. “Bound by Books, Desire; Library: When Its Branch Closed, Charles Village Refused the Final Chapter. Tomorrow, It Turns the Page to a Happy Ending, and New Center.: [FINAL Edition].” The Sun; Baltimore, Md. May 5, 2000, sec. LOCAL.
+- ———. “Pratt Library Plans Include Modernization, Construction of Four 'mini-Central' Facilities: [FINAL Edition].” The Sun; Baltimore, Md. October 28, 1997, sec. METRO.
+- “Sun Was Wrong on Cost of New Branches for Pratt Library Series: SERIES -- Rejoinder: [FINAL Edition].” The Sun; Baltimore, Md. October 28, 1997, sec. EDITORIAL.
+- “TO HEAR ‘STORY MOTHER’: Children Registering For Miss Katharine P. Woods Talk FAMOUS WRITER COMES FRIDAY At The St. Paul Branch Of The Pratt Library, She Will Tell The Children What To Read.” The Sun (1837-1991); Baltimore, Md. September 30, 1906.
+- “USE OF BOOKS RISES 18.8%: Borrowers At Pratt Library, Professional Aid Also Up.” The Sun (1837-1991); Baltimore, Md. January 30, 1955.
+- “WORK OF BRANCH LIBRARIES: Table Showing Progress At Seven Pratt Institutions.” The Sun (1837-1991); Baltimore, Md. December 18, 1906.
