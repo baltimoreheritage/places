@@ -79,7 +79,17 @@ On May 2, 1942, The *Afro-American* published a profile on the church titled "Ch
 >
 > The present pastor, the Rev. Henri Ralfe Tomlin, was appointed to St. John's five years ago. At that lime the church had a $27,000 indebtedness which has since been reduced to $14,000. In addition, the church parsonage has , been completely renovated. [...] The church has approximately 1,000 members, about 600 of whom attend services regularly.
 
-Unfortunately in March 1943, the congregation's building was gutted by a serious fire. The congregation spent two years worshipping in Metropolitan Methodist and Allen A.M.E. Churches before returning to their building on April 15, 1945.
+Unfortunately in March 1943, the congregation's building was gutted by a serious fire. The *Afro* reported on the fire on March 13, 1943:
+
+> Fire, believed to have been caused by an overheated furnace, destroyed St. John AME Church, 810 N. Carrollton Avenue, Wednesday evening. No one was hurt. Damage is estimated at $40,000.
+>
+> Answering the first of six alarms sounded at 7:08 p.m. by James B. Copeland, who happened to be walking in the neighborhood, firemen found the entire edifice a mass of flames.
+>
+> Adjacent buildings, including the N. M. Carroll Home for Aged at 822 and Emmanuel Christian Community Church at 800, were endangered.
+>
+> A crowd of nearly 2,000 watched as firemen, aided by auxiliary civilian defense workers, worked frantically for four hours to bring the blazing inferno under control. By midnight, however, only a handful of spectators were on hand. Firemen were on duty until Thursday morning.
+
+The congregation spent two years worshipping in Metropolitan Methodist and Allen A.M.E. Churches before returning to their building on April 15, 1945.
 
 On June 13, 1987, *The Afro-American* published a short profile on the recent history of the church, writing:
 
