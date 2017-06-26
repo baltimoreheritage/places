@@ -1,6 +1,11 @@
 ---
 title: "Community Development in Central Baltimore"
 date: 2017-06-26
+header:
+  teaser: https://c1.staticflickr.com/5/4038/4703521134_407cb26d21_z.jpg
+  overlay_image: https://c1.staticflickr.com/5/4038/4703521134_b0c0896f94_o.jpg
+  overlay_filter: .5
+  caption: "Meeting at MUND headquarters, 2133 Maryland Avenue, c. 1969. Courtesy [University of Baltimore, Langsdale Library](https://www.flickr.com/photos/ubarchives/4703521134/) ([CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/))"
 ---
 
 ## Development of central Baltimore: 1890s-1920s
@@ -25,7 +30,9 @@ While residents above North Avenue largely succeeded in their efforts to discour
 
 The 1930s, 1940s, and 1950s saw a new period of change begin for the area of central Baltimore. The blocks around Charles Street and North Avenue continued to develop as a retail and entertainment destination for people around the city. The Parkway Theatre opened in 1915 followed by the [North Avenue Market](http://explore.baltimoreheritage.org/items/show/57) in 1928. In 1939, the Centre Theatre opened in a converted automobile dealership and the Times Theatre (renamed the [Charles Theatre](http://explore.baltimoreheritage.org/items/show/58) in 1959) turned a popular dance club into Baltimore's first “all newsreel movie house.” Automobile dealerships and service stations proliferated along North Avenue and Howard Street including Eastwick Motors (now [Motor House](http://explore.baltimoreheritage.org/items/show/560)) in 1914, the [Oak Street Garage](http://explore.baltimoreheritage.org/items/show/393) in 1924, and the Eastwick Motor Company garage (now [R. House](http://explore.baltimoreheritage.org/items/show/459)) also in 1924.
 
-The growing number of automobiles led to the consturction of new roads and bridges such as the [Howard Street Bridge](http://explore.baltimoreheritage.org/items/show/14) (opened in 1938) and the Jones Falls Expressway which began construction on October 2, 1956. ([Source](http://articles.baltimoresun.com/2009-02-07/news/0902060189_1_jones-falls-falls-expressway-highway-bridge)) Local elected officials considered a variety of proposals to convert streets in downtown and central Baltimore from two-way to one-way multiple times in the 1920s and 1930s. The change finally came in the spring of 1947 with the conversion of Saint Paul Street and Calvert Street to one-way and the creation of a "wave system" of traffic lights to speed the passage of automobiles through the neighborhood. However, a 1948 lawsuit seeking to prevent the conversion of Druid Hill Avenue and McCulloh Street to one-way featured testimony from residents in central Baltimore who saw the hazards of the change. Aimee Weber, a resident on the 2600 block of N. Charles Street remarked on the "dust, noise, dirt and gasoline fumes" and shared that the  "lives of people living on those two streets have been made 'miserable' ... many of the old residents have moved and it is impossible to sleep."
+The growing number of automobiles led to the construction of new roads and bridges such as the [Howard Street Bridge](http://explore.baltimoreheritage.org/items/show/14) (opened in 1938) and the Jones Falls Expressway which began construction on October 2, 1956 ([Source](http://articles.baltimoresun.com/2009-02-07/news/0902060189_1_jones-falls-falls-expressway-highway-bridge)).
+
+Local elected officials considered a variety of proposals to convert streets in downtown and central Baltimore from two-way to one-way multiple times in the 1920s and 1930s. The change finally came in the spring of 1947 with the conversion of Saint Paul Street and Calvert Street to one-way and the creation of a "wave system" of traffic lights to speed the passage of automobiles through the neighborhood. However, a 1948 lawsuit seeking to prevent the conversion of Druid Hill Avenue and McCulloh Street to one-way featured testimony from residents in central Baltimore who saw the hazards of the change. Aimee Weber, a resident on the 2600 block of N. Charles Street remarked on the "dust, noise, dirt and gasoline fumes" and shared that the  "lives of people living on those two streets have been made 'miserable' ... many of the old residents have moved and it is impossible to sleep."
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/33339746512/in/photolist-VtuCfA-TV1Gb9-VcwL4X-VcwJoc-VcwJJT-VfCHBU-VcwKd8-VcwHYe-VfCEpS-Vj9t8e-Vwq4i2-Urj9Rj-TKjwM5-Szazda-TdV1UE-SzazFe-VcwLt4-VcwKEF-VcwyLM-THNmfy-UiJ5fg-THNjLb-THNngS-U4Kfyb-UiJ36X-TdV1Ew-SzayGF-TdV2f9-SN7V6J-RU67sY-RU67kJ-RU67FJ-D9AP9i-SE3Ynh-RXuJAs-T18km5-CjuLdF-rXzqS8-seYLck-seSUyU-8J952M-8Jc9U1-8J949v-8Jc9NC" title="2600 block of N. Calvert Street (east side), Baltimore, MD 21218"><img src="https://c1.staticflickr.com/4/3834/33339746512_be72816507_b.jpg" width="1024" height="768" alt="2600 block of N. Calvert Street (east side), Baltimore, MD 21218"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -49,6 +56,8 @@ One notable example is the efforts of Grace Darin, an editor at the Evening Sun,
 Four years later, in 1967, Darin began to write and distribute *The Charles Villager*, a mimeographed newsletter that she ran through 1977 (publishing at least thirty-three editions over the decade). The new name stuck and became institutionalized with the incorporation of the Charles Village CIvic Association in 1972.
 
 Other competing and related efforts took shape at the same time. The Greater Homewood Community Corporation formed at Johns Hopkins University in 1969 and formally incorporated in 1970. The Model Urban Neighborhood Demonstration Program (MUND) operated for just three years between 1968 and 1971 but, through organizing efforts focused on African American neighborhoods in Barclay and Old Goucher, created an enduring legacy of activism. The group focused on econommic and political empowerment establishing a "community-owned carry-out seafood store on the southeast corner of North and Maryland avenues which employs local residents" and a "multipurpose community center at Kirk avenue and 22d street." In 1970, MUND presented a development plan at their headquarters at 2133 Maryland Avenue for "upgrading 150 blocks of central Baltimore" described by the *Sun* as "what local citizens and professional planners think should happen to the diverse deteriorated but strategic area between North avenue and 25th street."
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/ubarchives/4703519308/in/album-72157624156749187/" title="Pride of the block"><img src="https://c1.staticflickr.com/5/4028/4703519308_f1b987cc26_b.jpg" width="1024" height="641" alt="Pride of the block"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Cuts to federal funding under the Nixon administration ended MUND's organizing efforts in 1971, the group left a legacy of resident leadership seen in the formation of the Harwood Improvement Association around 1972. A variety of groups carried on MUND's mission of anti-poverty work, including several tenants' rights organizations. For example, the Baltimore City Tenants Association had offices on East 25th street in 1979.
 
@@ -76,6 +85,12 @@ Many of the challenges that emerged in the 1960s have persisted into the 1990s a
 
 In June 1990, the Baltimore City Council approved a bill to "prohibit new private clubs and after-hours joints from opening in the Charles-North Revitalization Area." President of the Charles North Community Association, Rev. Dale Dusman, noted that "his group rarely meets wihtout hearing complaints about nightclubs."
 
+Peabody Heights Apartments, Winter 1993
+
 History of homeless services in Baltimore, nothing before 1986? 87? ([Source]( http://www.gao.gov/assets/90/83924.pdf))
+
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/32483636616/in/photolist-TdV2oL-TdV1Ew-SwsgWm-TBwJAK-TBwJLe-SwseSw-Swsfom-SzasxM-Swsebb-Szas5c-Szasrp-Snrwt3-T4X4ej-U7vWrF-SnrwDU-T4X3ow-SnrwQW-T4X3V3-T8h9Wg-SZVsAU-SSbNGZ-T4ydA6-REmLRU-RU67kJ-Snryx3-TbkY1Y-T3ymX8-RXuK91-RXuK4m-S14dy4-S1413T-T3ymQp-RXuKbf-SN7V6J-Rw6bTp-Rw6cix-Rw6bji-Rw6bAv-RU67FJ-RU67sY-QTEvGT-REmLrA-RjJAtC-QjsuLB-RjJAw3-QYJbL5-Rut8sh-Rjzu3Q-QYJv4Y-QjsLtD" title="Village Learning Place, 2521 Saint Paul Street, Baltimore, MD"><img src="https://c1.staticflickr.com/1/617/32483636616_f2f6fd5c37_b.jpg" width="1024" height="768" alt="Village Learning Place, 2521 Saint Paul Street, Baltimore, MD"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 -->
