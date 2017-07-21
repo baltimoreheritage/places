@@ -14,6 +14,8 @@ map:
     uid: "255480986"
 ---
 
+*The information in this profile of the Western District Police Station is referenced in the Baltimore Civil Rights Heritage [theme study on criminal injustice](https://baltimoreheritage.github.io/civil-rights-heritage/criminal-injustice/) and context study on the [period from 1968 to 1976](https://baltimoreheritage.github.io/civil-rights-heritage/overview/1968-1976/).*
+
 In 1876, the Western District Station moved from its prior location on Greene Street between Baltimore Street and Belvidere Street to a new building on Pine Street. The police continued to use that location from 1876 up until August 31, 1959 when they opened a new station at Riggs Avenue and Mount Street (1034 N. Mount Street). The Western District Station is just one of several stations with near identical designs constructed in a major expansion by the Baltimore City Police Department.
 
 On August 14, 1957, the _Baltimore Sun_ highlighted the Western District Police Station's construction on the site of a playground at Mount Street and Riggs Avenue as an example of how the city overrode the Baltimore Park Board as the city traded parkland for police stations.
