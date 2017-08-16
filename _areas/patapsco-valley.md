@@ -20,10 +20,15 @@ For over 200 years, the Patapsco Valley has been the focal point for historic ev
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrDWYR1ELzz4NJeI?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## Map
-
-*Coming soon.*
-
 ## Timeline
+
+<div class="full">
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IsrPcqMHGwwMXWl7k0Z5SpRBeYOBSK4CaOy3A-ve47U&font=Default&lang=en&hash_bookmark=true&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+</div>
+
+Please help us improve this timeline by sharing suggestions, comments, and questions on [our Google Sheet for this timeline](https://docs.google.com/spreadsheets/d/1IsrPcqMHGwwMXWl7k0Z5SpRBeYOBSK4CaOy3A-ve47U/edit?usp=sharing). We created this timeline using [Timeline JS](http://timeline.knightlab.com/).
+
+
+## Map
 
 *Coming soon.*
