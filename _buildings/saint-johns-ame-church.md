@@ -9,7 +9,7 @@ header:
   teaser: http://cdn.loc.gov/service/pnp/habshaer/md/md1500/md1599/photos/573792pv.jpg
 map:
   lat: "39.2984182"
-  lon: "-76.6398104"
+  lon: "-76.6376164"
   address: "810 N. Carrollton Avenue"
   zipcode: "21217"
   osm:

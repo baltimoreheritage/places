@@ -9,7 +9,7 @@ header:
   teaser: https://c1.staticflickr.com/1/617/32483636616_22510e3290_h.jpg
 map:
   lat: "39.3186133"
-  lon: "-76.617362"
+  lon: "-76.6151733"
   address: "2521 Saint Paul Street"
   zipcode: "21218"
   osm:

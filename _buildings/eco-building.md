@@ -5,8 +5,8 @@ excerpt: "A former commercial building turned community center for residents in 
 building:
   architect: "N. H. Hutton and John Murdoch"
 map:
-  lat: "39.2952347"
-  lon: "-76.6509629"
+  lat: "39.295232"
+  lon: "-76.650967"
   address: "2114 Edmondson Avenue"
   zipcode: "21217"
   osm:
