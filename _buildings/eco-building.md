@@ -12,6 +12,11 @@ map:
   osm:
     element: "way"
     uid: "336473337"
+property:
+  ward: "16"
+  section: "08"
+  block: "0105"
+  lot: "003"
 ---
 
 Prior to 1940, 2116 Edmondson Avenue <!-- FIXME: Double-check this address. --> was occupied as the Bridge 5c. & 10c. Store owned by Benjamin Hankoff. The property and stock were auctioned off in April 1940 and the store reopened as a grocery in the early 1940s. In the late 1940s, pool tables were offered for sale from the building.

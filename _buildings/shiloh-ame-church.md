@@ -11,6 +11,11 @@ map:
   osm:
     element: "way"
     uid: "336560360"
+property:
+  ward: "15"
+  section: "28"
+  block: "2826C"
+  lot: "018"
 ---
 
 Established in 1876, Shiloh AME Church has occupied the former school building in the Windsor Hills neighborhood since 1958. In 2001, the church and then Pastor Rev. Charlotte Clemons prepared a proposal to construct a new building on the adjoining lot (located along Mondawmin Avenue between their existing property and Chelsea Terrace). After encountering opposition from the neighborhood association during a zoning review (required due to the proposed setback for the building) and the unexpected cost of construction (over $2,000,000 for the new building, around $800,000 for site preparation) the church chose not pursue the proposal.
@@ -19,7 +24,7 @@ The National Register Registration Form for the [Windsor Hills Historic District
 
 > The first permanent structures in Windsor Hills, a pair of Italianate villas, were built sometime after the Civil War. It is rumored that they were built for a pair of heiresses, and local tradition holds that they derive their names, Tusculum and Monticello, from schools run there by Adele and Alfred Bujac. By the 1870s William P. Webb, an insurance broker, and Charles Hilgenburg each owned one of the houses, and would keep them well into the twentieth century. Baltimore city demolished Monticello in 1925 to make way for a new elementary school. Tusculum became the Shiloh A.M.E. Church, on Lyndhurst Avenue.[…] The sole example of the Italianate style in Windsor Hills is what is now the Mt. Shiloh AME Church, at 2601 Lyndhurst Avenue. It is understood the building was built originally as the Tusculum School in the late nineteenth century, and that it pre-dates the suburban development of the neighborhood, overall. The style is characterized by a rectangular form with wide eaves supported on brackets, and central tower form.
 
-A recollection of "The Early Days of Windsor Hills" by Robert Base, published on July 29, 1956 provides additional details on the building and the development of the surrounding property:
+A recollection of "The Early Days of Windsor Hills" by Robert Base, published on July 29, 1956, provides additional details on the building and the development of the surrounding property:
 
 > It was started by developers like Charles K. Swartz, who bought the Charles Hilgenberg estate, Tusculum. in 1911 and started what he called Windsor Park. The Tusculum house still stands, a well-known local landmark, on the northeast corner of Lyndhurst and Mondawmin avenues. I understand it was built originally by a Madame Bujac as a girls' school.
 >

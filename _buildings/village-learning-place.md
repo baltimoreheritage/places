@@ -15,6 +15,11 @@ map:
   osm:
     element: "way"
     uid: "336368471"
+property:
+  ward: "12"
+  section: "15"
+  block: "3832"
+  lot: "010"
 ---
 
 ## 1882: Enoch Pratt Free Library established
