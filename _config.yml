@@ -13,6 +13,7 @@ name                     : "Baltimore Heritage"
 description              : "An inventory of historic places in Baltimore, Maryland."
 url                      : "https://baltimoreheritage.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/places" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "baltimoreheritage/places" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -284,6 +285,19 @@ defaults:
   - scope:
       path: ""
       type: structures
+    values:
+      layout: building
+      author_profile: false
+      share: true
+      header:
+        overlay_filter: .5
+      map:
+        city: "Baltimore"
+        state: "MD"
+# _works
+  - scope:
+      path: ""
+      type: works
     values:
       layout: building
       author_profile: false
