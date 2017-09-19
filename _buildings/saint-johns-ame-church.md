@@ -15,6 +15,11 @@ map:
   osm:
     element: "way"
     uid: "255336778"
+property:
+  ward: "16"
+  section: "15"
+  block: "0090"
+  lot: "006"
 ---
 
 ## Overview
