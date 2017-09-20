@@ -13,6 +13,11 @@ map:
   osm:
     element: "way"
     uid: "336375629"
+property:
+  ward: "23"
+  section: "03"
+  block: "0932"
+  lot: "043"
 ---
 
 *This description is based on [a survey form](https://mht.maryland.gov/secure/Medusa/PDF/Baltimore City/B-2934.pdf) prepared by Bill Pencek, Planning Assistant for the Commission for Historical and Architectural Preservation in 1976.*

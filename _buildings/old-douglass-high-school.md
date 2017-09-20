@@ -4,13 +4,18 @@ date: 1988-06-08
 modified: 2017-07-21
 excerpt: "Completed in 1924, the old Frederick Douglass High School is a free-standing building with an adjacent playground area occupying nearly three quarters of the city block bounded by Calhoun, Cumberland, Carey and Baker Streets."
 map:
-  lat: "39.30775161"
-  lon: "-76.64233397"
+  lat: "39.3076617"
+  lon: "-76.6421907"
   address: "1645 N. Calhoun Street"
   zipcode: "21217"
   osm:
     element: "relation"
     uid: "4758025"
+property:
+  ward: "15"
+  section: "13"
+  block: "0296"
+  lot: "001"
 ---
 
 *This description is based on the [National Register of Historic Places registration form](https://mht.maryland.gov/secure/Medusa/PDF/Baltimore%20City/B-4210.pdf) submitted to the Maryland Historical Trust by Mark R. Heckman for David S. Shull AIA, Architects on June 8, 1988.*

@@ -7,12 +7,17 @@ building:
   architect: "N. H. Hutton and John Murdoch"
 map:
   lat: "39.3019005"
-  lon: "-76.6312178"
+  lon: "-76.6290238"
   address: "1300 Druid Hill Avenue"
   zipcode: "21217"
   osm:
     element: "way"
     uid: "336396881"
+property:
+  ward: "17"
+  section: "01"
+  block: "0396"
+  lot: "001"
 ---
 
 *This description is based on the 1971 [Maryland Inventory of Historic Properties form](https://mht.maryland.gov/secure/Medusa/PDF/Baltimore%20City/B-123.pdf) for Bethel A.M.E. Church.*

@@ -13,6 +13,11 @@ map:
   osm:
     element: "way"
     uid: "257846632"
+property:
+  ward: "11"
+  section: "06"
+  block: "0398"
+  lot: "001"
 ---
 
 *This description is based on an [internal National Register elibility review form](https://mht.maryland.gov/secure/Medusa/PDF/Baltimore%20City/B-5045.pdf) prepared by Anne E. Bruder for the Maryland Historical Trust on February 29, 2000.*

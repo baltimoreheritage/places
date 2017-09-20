@@ -7,12 +7,17 @@ building:
   architect: "Long and Powell"
 map:
   lat: "39.302357"
-  lon: "-76.6328857"
+  lon: "-76.6306917"
   address: "1401-1411 Division Street"
   zipcode: "21217"
   osm:
     element: "relation"
     uid: "7117099"
+property:
+  ward: "14"
+  section: "12"
+  block: "0376"
+  lot: "029"
 ---
 
 ## Overview

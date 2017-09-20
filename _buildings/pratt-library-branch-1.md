@@ -13,6 +13,11 @@ map:
   osm:
     element: "way"
     uid: "336419161"
+property:
+  ward: "14"
+  section: "10"
+  block: "0336"
+  lot: "026"
 ---
 
 *This description is based on a [1978 City of Baltimore Neighborhood Survey form](https://mht.maryland.gov/secure/Medusa/PDF/Baltimore City/B-2993.pdf) from the Maryland Inventory of Historic Properties.*
