@@ -6,12 +6,17 @@ building:
   architect: Unknown
 map:
   lat: "39.3006711"
-  lon: "-76.6470943"
+  lon: "-76.6449003"
   address: "1034 N. Mount Street"
   zipcode: "21217"
   osm:
     element: "way"
     uid: "255480986"
+property:
+  ward: "16"
+  section: "03"
+  block: "0060"
+  lot: "007"
 ---
 
 *The information in this profile of the Western District Police Station is referenced in the Baltimore Civil Rights Heritage [theme study on criminal injustice](https://baltimoreheritage.github.io/civil-rights-heritage/criminal-injustice/) and context study on the [period from 1968 to 1976](https://baltimoreheritage.github.io/civil-rights-heritage/overview/1968-1976/).*

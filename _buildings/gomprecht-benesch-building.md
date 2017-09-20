@@ -8,13 +8,18 @@ building:
   architect: Charles E. Cassell
   mihp_id: B-2264
 map:
-  lat: "39.2935018"
-  lon: "-76.6237713"
+  lat: "39.2935048"
+  lon: "-76.6215794"
   address: "320 N. Eutaw Street"
   zipcode: "21201"
   osm:
     element: "way"
     uid: "336381788"
+property:
+  ward: "04"
+  section: "03"
+  block: "0576"
+  lot: "036"
 gallery:
   - url: /assets/images/1910-jacob-gomprecht-jewsofbaltimoreh00blum_0407.jpg
     image_path: /assets/images/1910-jacob-gomprecht-jewsofbaltimoreh00blum_0407.jpg

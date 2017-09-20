@@ -8,13 +8,18 @@ building:
 header:
   teaser: https://c1.staticflickr.com/1/703/32513101343_67a5e2400e_h.jpg
 map:
-  lat: "39.3162626"
-  lon: "-76.6225875"
+  lat: "39.316385"
+  lon: "-76.622248"
   address: "400 West 24th Street"
   zipcode: 21211
   osm:
     element: "way"
     uid: "336382949"
+property:
+  ward: "12"
+  section: "05"
+  block: "3626C"
+  lot: "004"
 ---
 
 <!-- NOTE: This is a version of a 2010 report. I had to strip out the citations to convert from Microsoft Word to Markdown but they are still available. -->

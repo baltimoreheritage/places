@@ -9,12 +9,17 @@ building:
   architect: "Alfred Lowther Forrest"
 map:
   lat: "39.337287"
-  lon: "-76.6349512"
+  lon: "-76.6327572"
   address: "4001 Roland Avenue"
   zipcode: 21211
   osm:
     element: "way"
     uid: "336409741"
+property:
+  ward: "13"
+  section: "01"
+  block: "3594A"
+  lot: "001"
 ---
 
 <!-- NOTE: This is adapted from a 2010 report. I had to strip out the citations to convert from Microsoft Word to Markdown but they are still available. -->

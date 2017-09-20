@@ -4,13 +4,18 @@ excerpt: "Originally built in the 1890s by Thomas Kennett as a residence, the bu
 header:
   teaser: https://c2.staticflickr.com/2/1540/24097241459_6d12019a34_h.jpg
 map:
-  lat: "39.3068736"
-  lon: "-76.632604"
+  lat: "39.3068735"
+  lon: "-76.6304153"
   address: "1700 Eutaw Place"
   zipcode: 21217
   osm:
     element: "way"
     uid: "336402702"
+property:
+  ward: "14"
+  section: "13"
+  block: "0342"
+  lot: "025"
 ---
 
 By August 30, 1867, the Sun reported on development in the area of Eutaw Place in glowing terms, writing:
