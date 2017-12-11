@@ -43,3 +43,115 @@ Throughout this period, members of the Nation of Islam were subject to close sur
 Elijah Muhammad's death in 1975 marked the beginning of a new chapter with significant changes in the community's approach to religious practice. In 1976, the mosque was renamed Masjid Muhammad and prayer areas and bathrooms were changed to "comply with traditional Islamic practices," and, in 1978, the University of Islam School became the Sister Clara Muhammad School. Members welcomed Muhammad Ali for a visit to the mosque in 1980 and to a second visit in 1982. In 1994, Masjid Muhammad became Masjid Al Haqq and, in 2003, members worked with the Baltimore Commission for Historical and Architectural Preservation to list the building as a local historic landmark.
 
 *Explore the history of Masjid Ul-Haqq in [an interactive timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1HVhlUROgz61wxfAI0dN1QTHy_xjsl92FJ-Bc9XQiXvE&font=Default&lang=en&initial_zoom=2&height=650) (based on this [Google Sheet](https://docs.google.com/spreadsheets/u/0/d/1HVhlUROgz61wxfAI0dN1QTHy_xjsl92FJ-Bc9XQiXvE/edit?usp=drive_web)). Connect with the Masjid Ul-Haqq [on Facebook](https://www.facebook.com/pages/Masjid-Ul-Haqq/166873833353053).*
+
+## References
+
+“Beys Won’t Bare Heads in Courtroom.” *Afro-American (1893-1988); Baltimore, Md.* October 15, 1949.
+
+Boykin, E. “Baptists Take Sharp Issue With Moslems.” *Afro-American (1893-1988); Baltimore, Md.* October 24, 1959.
+
+“Calypso, Jazz Rock Once Staid N.Y. Carnegie Hall.” *Afro-American (1893-1988); Baltimore, Md.* February 23, 1957.
+
+“Classified Ad 13 -- No Title.” *The Sun (1837-1991); Baltimore, Md.* April 1, 1873.
+
+“Classified Ad 19 -- No Title.” *The Sun (1837-1991); Baltimore, Md.* April 7, 1890.
+
+“Clay, ‘The King,’ Addresses Muslims And The Curious.” *The Sun (1837-1991); Baltimore, Md.* May 7, 1964.
+
+“Cops ‘nab’ Agents Watching Mosque.” *Afro-American (1893-1988); Baltimore, Md.* January 29, 1972.
+
+Dilts, James D. “Baltimore’s 300 or More Black Muslims Gather at Their Mosque, Once a Garage, Where Their Leader: Isaiah Karriem Tells Them to Seek a Separate State.” *The Sun (1837-1991); Baltimore, Md.* September 4, 1966.
+
+“Display Ad 39 -- No Title.” *The Sun (1837-1991); Baltimore, Md.* June 10, 1955.
+
+“Display Ad 57 -- No Title.” *The Sun (1837-1991); Baltimore, Md.* October 12, 1949.
+
+“Display Ad 130 -- No Title.” *The Sun (1837-1991); Baltimore, Md.* November 17, 1957.
+
+Evans, Martin C. “Ali Flashes Old Charisma on Visit to West Baltimore.” *The Sun (1837-1991); Baltimore, Md.* October 1, 1989, sec. Maryland.
+
+Francis-Bey, R. “AFRO READERS SAY:: There Is But One God and Mohamet Is His Prophet.” *Afro-American (1893-1988); Baltimore, Md.* September 23, 1933.
+
+Harden, Carl. “Protect Our Women.” *Afro-American (1893-1988); Baltimore, Md.* June 27, 1959.
+
+Imam, Alfred Muhammad. “Al-Islam/West.” *The Sun (1837-1991); Baltimore, Md.* August 3, 1978.
+
+“In 40th Year, Muslims Survive And Flourish Despite Odds.” *Afro-American (1893-1988); Baltimore, Md.* August 1, 1970.
+
+“JOKER IS AGAIN ABROAD: Orders Carriages, Ice-Cream And Beer To Dr. Ashby’s House.” *The Sun (1837-1991); Baltimore, Md.* May 23, 1902.
+
+“Just A Tiny Drop.” *Afro-American (1893-1988); Baltimore, Md.* November 21, 1959.
+
+LoLordo, Ann. “Pennsylvania Avenue Residents-- in the Middle of ’Dope City’-- Search for a Way Out.” *The Sun (1837-1991); Baltimore, Md.* October 11, 1989.
+
+“Mathematician Now a Muslim Speaker in City at Mosque.” *Afro-American (1893-1988); Baltimore, Md.* October 26, 1963.
+
+“Members of New Religious Cult in Death Trial.” *Afro-American (1893-1988); Baltimore, Md.* February 15, 1930.
+
+Miller, Kelly. “Our Educational Program Needs Revamping.” *Afro-American (1893-1988); Baltimore, Md.* June 21, 1930.
+
+“Moroccan Temple Leader Here Born In Mississippi: Baltimore Has One Of 15 Moorish Science Temples Scattered Throughout The Country.” *Afro-American (1893-1988); Baltimore, Md.* December 29, 1928.
+
+“Moslem Leaderdemands ‘justice’ at Rally of 5,000.” *Afro-American (1893-1988); Baltimore, Md.* June 13, 1959.
+
+“Mosque May Replace School.” *The Sun (1837-1991); Baltimore, Md.* April 14, 1921.
+
+“Muhammad Ali Favors City With His Presence.” *The Sun (1837-1991); Baltimore, Md.* December 21, 1965.
+
+“Muslim Chief to Talk on Unity.” *The Sun (1837-1991); Baltimore, Md.* March 27, 1976.
+
+“MUSLIM MUZZLE MALCOLM: Can’t Talk, but Retains Mosque 7.” *Afro-American (1893-1988); Baltimore, Md.* December 14, 1963.
+
+“Muslims Open $60,000 Drive to Build Auditorium-Center.” *Afro-American (1893-1988); Baltimore, Md.* July 30, 1960.
+
+“‘Muslims’ Upset 3 Jails.” *Afro-American (1893-1988); Baltimore, Md.* November 14, 1959.
+
+Newson, Moses. “Pakistani Says Muslims in U.S. Misrepresent Islam.” *Afro-American (1893-1988); Baltimore, Md.* May 26, 1962.
+
+Oishi, Gene. “The New Muslims--I: Local Mosque Joins Shift to True Islam.” *The Sun (1837-1991); Baltimore, Md.* July 16, 1978.
+
+OLIVER, ELIZABETY. “’I’LL BE FREE AGAIN SOON’--CASSIUS: No Hurry to Marry, Afro Told.” *Afro-American (1893-1988); Baltimore, Md.* January 1, 1966.
+
+Omowale, Jadi. “Baltimore’s African Sister City.” *Afro-American (1893-1988); Baltimore, Md.* May 26, 1984.
+
+“Other 5 -- No Title.” *Afro-American (1893-1988); Baltimore, Md.* March 14, 1936.
+
+“Photo Standalone 11 -- No Title.” *Afro-American (1893-1988); Baltimore, Md.* November 13, 1965.
+
+“Photo Standalone 11 -- No Title.” *Afro-American (1893-1988); Baltimore, Md.* March 5, 1966.
+
+“Radio Station at Morgan Seeks Funds.” *The Sun (1837-1991); Baltimore, Md.* June 27, 1981.
+
+“Reaction Bitter and Quick over Slaying.” *Afro-American (1893-1988); Baltimore, Md.* February 23, 1963.
+
+“REAL ESTATE DEALS AND BUILDING NEWS: Apartment House To Be Erected At 3706 Charles Street.” *The Sun (1837-1991); Baltimore, Md.* May 19, 1928.
+
+Ruby, Robert. “Black Islamic Leader Urges End to Racism.” *The Sun (1837-1991); Baltimore, Md.* January 21, 1980.
+
+Somerville, Frank P. L. “Muslims Celebrate End of Ramadan; Imam Says, ‘We Do Not Take Hostages.’” *The Sun (1837-1991); Baltimore, Md.* June 21, 1985.
+
+———. “Pratt’s Islamic Programs Touch a Nerve in Muslim Community.” *The Sun (1837-1991); Baltimore, Md.* April 24, 1983.
+
+Stewart, Ollie. “Arab Churches Feature Prayers One Hour Long.” *Afro-American (1893-1988); Baltimore, Md.* June 12, 1943.
+
+Sun, Frank P. L. Somerville Religion Editor of The. “Area Moslems Urge U.S. to Bar Author from Touring.” *The Sun (1837-1991); Baltimore, Md.* February 22, 1989.
+
+———. “Islamic Chapter Rejects Rushdie Death Sentence.” *The Sun (1837-1991); Baltimore, Md.* February 27, 1989, sec. Maryland.
+
+———. “Moslem Leader Withdraws Support for Call for Rushdie’s Death.” *The Sun (1837-1991); Baltimore, Md.* April 24, 1989, sec. Maryland.
+
+“SYNAGOGUE MAY BE OPENED HERE BY BLACK RABBI: Believes Christ Lived; Doubts Virgin Birth.” *Afro-American (1893-1988); Baltimore, Md.* August 18, 1928.
+
+“The Quick (But Not Easy) Way Out.” *Afro-American (1893-1988); Baltimore, Md.* September 14, 1946.
+
+Thompson, M. Dion. “Baltimore Boy Scout Troops Try a Little Urban Camping.” *The Sun (1837-1991); Baltimore, Md.* September 17, 1989, sec. Maryland.
+
+Twigg, Roger. “Muslims Claim Police Showed Bias in Allowing Escape: Group Has Rid Neighborhood of Drugs, Crime and Violence.” *The Sun (1837-1991); Baltimore, Md.* August 3, 1991, sec. Maryland.
+
+“What the Other Fellow Says: Baltimoreans Tell All About Fellow Citizens.” *Afro-American (1893-1988); Baltimore, Md.* June 13, 1942.
+
+“What’s Muslim?--One Thing It’s Not like Ku Klux Klan.” *Afro-American (1893-1988); Baltimore, Md.* February 20, 1960.
+
+WICKHAM, DeWAYNE. “Ali Will Fight to Generate Muslim Aid.” *The Sun (1837-1991); Baltimore, Md.* July 18, 1977.
+
+Williams, James. “Muhammad’s Talk Draws Capacity Crowd at Temple.” *Afro-American (1893-1988); Baltimore, Md.* July 2, 1960.
