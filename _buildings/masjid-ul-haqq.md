@@ -16,6 +16,11 @@ property:
   section: "08"
   block: "0339"
   lot: "061"
+header:
+  teaser: https://farm5.staticflickr.com/4523/24145754737_d265153b5d_z.jpg
+  overlay_image: https://farm5.staticflickr.com/4523/24145754737_4b8d9eb8e2_h.jpg
+  overlay_filter: .5
+  caption: "Masjid Ul-Haqq/Former Mosque No. 6, 514 Islamic Way, 2017 December 11. Courtesy [Baltimore Heritage](https://www.flickr.com/photos/baltimoreheritage/24145754737/) ([CC 0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))"
 ---
 
 Mosque No. 6, the predecessor of the Masjid Ul-Haqq, purchased a two-story brick garage on Wilson Street around 1958. The building, located within the Old West Baltimore Historic District, likely dates back to the 1870s and operated as part of P. Bradley's Livery Stables up to the early 1900s.
