@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Buildings"
-    url: https://baltimoreheritage.github.io/places/buildings/
+    url: http://places.baltimoreheritage.org/buildings/
   - title: "Timelines"
-    url: https://baltimoreheritage.github.io/places/timelines/
+    url: http://places.baltimoreheritage.org/timelines/
 #  - title: "About"
-#    url: https://baltimoreheritage.github.io/places/about/
+#    url: http://places.baltimoreheritage.org/about/
   - title: "About Baltimore Heritage"
     url: https://baltimoreheritage.org/about/
 #    - title: "Explore Baltimore Heritage"
