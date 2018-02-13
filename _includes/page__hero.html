@@ -41,10 +41,10 @@
       {% if page.map %} <!-- Insert street address + Google Street View + Open Street Map Link -->
         <p class="page__meta">
           {{ page.map.address }}, {{ page.map.zipcode }}<br/>
-          <i class="fa fa-street-view"></i>&nbsp;<a href="https://www.google.com/maps?q&layer=c&cbll={{ page.map.lat }},{{ page.map.lon }}&cbp=11">Google Street View</a><br/>
-          <i class="fa fa-map-o"></i>&nbsp;<a href="https://www.openstreetmap.org/{{ page.map.osm.element }}/{{ page.map.osm.uid }}">osm:{{ page.map.osm.element }}/{{ page.map.osm.uid }}</a>
+          <i class="fas fa-street-view"></i>&nbsp;<a href="https://www.google.com/maps?q&layer=c&cbll={{ page.map.lat }},{{ page.map.lon }}&cbp=11">Google Street View</a><br/>
+          <i class="far fa-map"></i>&nbsp;<a href="https://www.openstreetmap.org/{{ page.map.osm.element }}/{{ page.map.osm.uid }}">osm:{{ page.map.osm.element }}/{{ page.map.osm.uid }}</a>
           {% if page.property %}
-          <br/><i class="fa fa-money"></i>&nbsp;<a href="https://sdat.dat.maryland.gov/realproperty/pages/viewdetails.aspx?County=03&SearchType=ACCT&Ward={{ page.property.ward }}&SECTION={{ page.property.section }}&BLOCK={{ page.property.block }}&LOT={{ page.property.lot }}">SDAT</a>
+          <br/><i class="fas fa-money-bill-alt"></i>&nbsp;<a href="https://sdat.dat.maryland.gov/realproperty/pages/viewdetails.aspx?County=03&SearchType=ACCT&Ward={{ page.property.ward }}&SECTION={{ page.property.section }}&BLOCK={{ page.property.block }}&LOT={{ page.property.lot }}">SDAT</a>
           {% endif %}
         </p>
       {% endif %}
@@ -52,7 +52,7 @@
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
       {% if site.read_time and page.read_time %}
-        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+        <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
       {% if page.header.cta_url %}
         <p><a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
