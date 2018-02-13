@@ -1,7 +1,7 @@
 ---
 title: "Vacants to Value and Project CORE"
 date: 2017-09-12
-modified: 2018-02-12
+last_modified_at: 2018-02-12
 excerpt: "This timeline seeks to summarize the planning, public outreach and regulatory process related to the Vacants to Value and Project CORE programs between 2018 and 2018."
 header:
   teaser: https://c1.staticflickr.com/5/4328/35774856600_a251d62390_z.jpg

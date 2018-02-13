@@ -1,7 +1,7 @@
 ---
 title: "Bethel A.M.E. Church"
 year_built: 1868
-modified: 2017-07-11
+last_modified_at: 2017-07-11
 excerpt: "A historic church on Druid Hill Avenue."
 building:
   architect: "N. H. Hutton and John Murdoch"

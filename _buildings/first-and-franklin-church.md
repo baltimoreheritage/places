@@ -1,7 +1,7 @@
 ---
 title: "First and Franklin Presbyterian Church (1859)"
 date: 2017-10-13
-modified: 2017-10-16
+last_modified_at: 2017-10-16
 excerpt: "Designed by architect Norris G. Starkweather, First and Franklin Church is home to the congregation formed from the 1973 merger of First Presbyterian Church (founded 1766) and Franklin Street Presbyterian Church (founded 1844)."
 building:
   architect: "Norris G. Starkweather"

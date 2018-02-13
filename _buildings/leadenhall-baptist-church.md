@@ -1,7 +1,7 @@
 ---
 title: "Leadenhall Baptist Church (1872-1873)"
 date: 1976-01-01
-modified: 2017-07-21
+last_modified_at: 2017-07-21
 excerpt: "One of the oldest African American church buildings in Baltimore."
 building:
   architect: "Joseph Thomas and Son"

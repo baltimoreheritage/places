@@ -1,7 +1,7 @@
 ---
 title: "Enoch Pratt Free Library – Branch No. 1 (1886)"
 date: 1978-01-01
-modified: 2017-07-21
+last_modified_at: 2017-07-21
 excerpt: "One of the original branch locations for the Enoch Pratt Free Library, later used as the Greater Spirit of Truth Church and Church of Christ."
 building:
   architect: "Charles L. Carson"

@@ -1,7 +1,7 @@
 ---
 title: "Booker T. Washington Middle School (1896)"
 date: 2000-02-29
-modified: 2017-07-21
+last_modified_at: 2017-07-21
 excerpt: "The former Western Female High School."
 building:
   architect: "Alfred Mason"

@@ -1,7 +1,7 @@
 ---
 title: "Village Learning Place (1896)"
 date: 2017-01-26
-modified: 2017-04-27
+last_modified_at: 2017-04-27
 excerpt: "This building is a former branch of the Enoch Pratt Free Library that is currently used as the nonprofit Village Learning Place."
 building:
   architect: "Charles L. Carson"

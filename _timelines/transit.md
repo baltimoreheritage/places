@@ -1,7 +1,7 @@
 ---
 title: "Baltimore Transit"
 date: 2013-12-11
-modified: 2017-05-09
+last_modified_at: 2017-05-09
 excerpt: "A timeline on the history of transit in Baltimore created by Eli Pousson based on John Thomas Scharf's history of Baltimore omnibus lines and information from the Baltimore Streetcar Museum. Please share your comments and questions."
 header:
   teaser: http://explore.baltimoreheritage.org/files/fullsize/ac4b119b93c8a9751ee8607254102f96.jpg

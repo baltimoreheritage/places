@@ -1,7 +1,7 @@
 ---
 title: "Community Development in Central Baltimore"
 date: 2017-06-26
-modified: 2017-07-08
+last_modified_at: 2017-07-08
 excerpt: "Join us in exploring the history of seven central Baltimore neighborhoods: Greenmount West, Charles North, Barclay, Old Goucher, Charles Village, Harwood, and Remington."
 header:
   teaser: https://c1.staticflickr.com/5/4038/4703521134_407cb26d21_z.jpg

@@ -4,7 +4,7 @@ category:
 - neighborhood
 excerpt: "A historic neighborhood bounded by Greenmount Avenue, E. 25th Street, Harford Road, and E. North Avenue."
 date: 2017-11-12
-modified: 2017-12-03
+last_modified_at: 2017-12-03
 header:
   teaser: https://c1.staticflickr.com/3/2885/33518867990_43e9c917c4_z.jpg
   overlay_image: https://c1.staticflickr.com/3/2885/33518867990_e3305f8e6f_h.jpg

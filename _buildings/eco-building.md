@@ -1,6 +1,6 @@
 ---
 title: "Edmondson Community Organization (ECO) Building (c. 1910)"
-modified: 2017-08-17
+last_modified_at: 2017-08-17
 excerpt: "A former commercial building turned community center for residents in the Midtown-Edmondson neighborhood."
 building:
   architect: "N. H. Hutton and John Murdoch"

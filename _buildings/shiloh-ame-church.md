@@ -1,7 +1,7 @@
 ---
 title: Tusculum/Shiloh A.M.E. Church (c. 1860)
 date: 2017-06-20
-modified: 2017-06-20
+last_modified_at: 2017-06-20
 excerpt: "Established in 1876, Shiloh AME Church has occupied the former Tusculum school building in the Windsor Hills neighborhood since 1958."
 map:
   lat: "39.3155888"

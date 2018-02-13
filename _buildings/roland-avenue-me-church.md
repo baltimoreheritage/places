@@ -2,7 +2,7 @@
 title: "Roland Avenue Methodist Episcopal Church (1912)"
 excerpt: "The former Roland Avenue-Evergreen United Methodist Church located at Roland Avenue and W. 40th Street."
 date: 2010-03-16
-modified: 2017-04-26
+last_modified_at: 2017-04-26
 header:
   teaser: https://c1.staticflickr.com/1/771/32513107673_b0a79369b0_b.jpg
 building:

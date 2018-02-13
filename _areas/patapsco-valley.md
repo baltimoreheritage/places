@@ -1,7 +1,7 @@
 ---
 title: "Patapsco Valley: Historic And Natural Places"
 date: 2017-08-15
-modified: 2017-08-15
+last_modified_at: 2017-08-15
 excerpt: "An area including Elkridge, Ellicott City, Arbutus, and Relay."
 header:
   teaser: https://patapsco.org/wp-content/uploads/2017/06/IMG_9015.jpg

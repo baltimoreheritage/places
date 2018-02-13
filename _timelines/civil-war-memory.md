@@ -1,7 +1,7 @@
 ---
 title: "Civil War Memory in Maryland"
 date: 2016-01-17
-modified: 2017-05-23
+last_modified_at: 2017-05-23
 excerpt: "This timeline on the history of Civil War memory in Baltimore and Maryland is based on research and writing by Eli Pousson. Please share your comments and questions."
 header:
   teaser: http://explore.baltimoreheritage.org/files/original/fa2fbc3a8e75ea89f110cb2f61e74de6.jpg

@@ -1,7 +1,7 @@
 ---
 title: "St. Vincent's Infant Asylum/Carver Hall Apartments"
 date: 2015-03-03
-modified: 2016-06-15
+last_modified_at: 2016-06-15
 excerpt: "A former orphanage turned apartment building at Division Street and Lafayette Street."
 building:
   architect: "Long and Powell"

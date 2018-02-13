@@ -2,7 +2,7 @@
 title: "Royer's Hill Methodist Episcopal Church (1891)"
 excerpt: "A mission church established around 1891 on 24th Street by the leaders of Lovely Lane Church, converted to use as a warehouse and garage by the 1950s."
 date: 2010-01-11
-modified: 2017-04-25
+last_modified_at: 2017-04-25
 building:
   architect: "Rev. Edward L. Watson"
 header:

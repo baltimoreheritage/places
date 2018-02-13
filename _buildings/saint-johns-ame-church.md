@@ -1,7 +1,7 @@
 ---
 title: "St. John's A.M.E. Church/Former Lafayette Square Presbyterian Church (1879)"
 date: 2017-06-20
-modified: 2017-06-20
+last_modified_at: 2017-06-20
 excerpt: "A unique mid-block church designed by architects Dixon & Carson on Lafayette Square."
 building:
   architect: "Dixon & Carson"

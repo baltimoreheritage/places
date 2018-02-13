@@ -1,7 +1,7 @@
 ---
 title: "Old Frederick Douglass High School (1924)"
 date: 1988-06-08
-modified: 2017-07-21
+last_modified_at: 2017-07-21
 excerpt: "Completed in 1924, the old Frederick Douglass High School is a free-standing building with an adjacent playground area occupying nearly three quarters of the city block bounded by Calhoun, Cumberland, Carey and Baker Streets."
 map:
   lat: "39.3076617"

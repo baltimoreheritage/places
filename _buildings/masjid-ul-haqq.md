@@ -1,7 +1,7 @@
 ---
 title: "Masjid Ul-Haqq"
 date: 2017-11-08
-modified: 2017-12-03
+last_modified_at: 2017-12-03
 excerpt: "Mosque No. 6, the predecessor of the Masjid Ul-Haqq, purchased a two-story brick garage on Wilson Street around 1958."
 map:
   lat: "39.3050314"
