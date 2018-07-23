@@ -1,5 +1,5 @@
 ---
-title: "St. John's A.M.E. Church/Former Lafayette Square Presbyterian Church (1879)"
+title: "St. John A.M.E. Church/Former Lafayette Square Presbyterian Church (1879)"
 date: 2017-06-20
 last_modified_at: 2017-06-20
 excerpt: "A unique mid-block church designed by architects Dixon & Carson on Lafayette Square."
@@ -26,7 +26,7 @@ property:
 
 *This overview is adapted from the [Historic American Building Survey record](http://www.loc.gov/pictures/item/md1599/) of the building.* <!-- Teaser image courtesy HABS http://www.loc.gov/pictures/item/md1599.photos.573792p/resource/ -->
 
-Home since 1929 to the St. John's A.M.E. congregation (organized in 1855), this church began as Lafayette Square Presbyterian (organized in 1879), the only congregation of that denomination to locate on Lafayette Square. This church, which is faced in the same green serpentine stone used by architects Dixon & Carson (a partnership of [Thomas Dixon](https://en.wikipedia.org/wiki/Thomas_Dixon_(architect)) and [Charles L. Carson](https://en.wikipedia.org/wiki/Charles_L._Carson)) for the [Mount Vernon Place Methodist Church](https://en.wikipedia.org/wiki/Mount_Vernon_Place_United_Methodist_Church_and_Asbury_House) (1873) and the Central Presbyterian Church on Eutaw Place (completed 1879), combines the partnership's favorite Gothic revival motifs: richly colored and patterned stonework, an abundance of colonettes and thoughtfully-placed carved foliate ornament, modest clerestories, turrets, and towers, grouped lancet windows (often in sets of three), and a clear overall massing expressive of the different spaces within the church. Complementing the steeple on the main facade are two decorative flying buttresses, whose dramatic juxaposition above the north portal identifies this building as late Gothic revival in sentiment and style.
+Home since 1929 to the St. John A.M.E. congregation (organized in 1855), this church began as Lafayette Square Presbyterian (organized in 1879), the only congregation of that denomination to locate on Lafayette Square. This church, which is faced in the same green serpentine stone used by architects Dixon & Carson (a partnership of [Thomas Dixon](https://en.wikipedia.org/wiki/Thomas_Dixon_(architect)) and [Charles L. Carson](https://en.wikipedia.org/wiki/Charles_L._Carson)) for the [Mount Vernon Place Methodist Church](https://en.wikipedia.org/wiki/Mount_Vernon_Place_United_Methodist_Church_and_Asbury_House) (1873) and the Central Presbyterian Church on Eutaw Place (completed 1879), combines the partnership's favorite Gothic revival motifs: richly colored and patterned stonework, an abundance of colonettes and thoughtfully-placed carved foliate ornament, modest clerestories, turrets, and towers, grouped lancet windows (often in sets of three), and a clear overall massing expressive of the different spaces within the church. Complementing the steeple on the main facade are two decorative flying buttresses, whose dramatic juxaposition above the north portal identifies this building as late Gothic revival in sentiment and style.
 
 The Baltimore Presbytery considered at least one other design submitted by [Edmund George Lind](https://en.wikipedia.org/wiki/Edmund_George_Lind), the architect of the Peabody Institute and a number of Gothic revival churches in the city. Severely damaged by fire in 1943, the church was rebuilt by the St. John's congregation within two years despite a myriad of wartime financial and material obstacles.
 
@@ -42,7 +42,7 @@ On February 21, 1905, the *Sun* reported on the Lafayette Square Presbyterian Ch
 >
 > The present membership is over 400, very few of whom were in the church in its earlier years. The church is thoroughly organized In all departments, with 8 elders, 11 deacons and 12 trustees.
 
-## St. John's A.M.E. Church
+## St. John A.M.E. Church
 
 The [Baltimore Annual Conference](http://www.baltimoredistrictamec.org/about.html) of the African Methodist Episcopal Church held their first meeting in Baltimore on on April 7, 1818. By April 13, 1826, [Bishop Richard Allen](https://en.wikipedia.org/wiki/Bishop_Richard_Allen) remarked on the expansion of the church in a pastoral letter, writing:
 
@@ -62,7 +62,7 @@ On December 26, 1931, the *Afro-American* recalled the early history of the cong
 >
 > In 1872 when the Rev. Jacob Nicholson came to the mission the name of St. John A.M.E. Church was given to this congregation. [...] In 1892, under the administration of the Rev. O. D. Robinson, who remained four years, the church was rebuilt a second time, this time on Lexington Street. The new structure cost $7,000. It was dedicated to God and to African Methodism in 1894 by the Right Rev. W. J. Gaines.
 
-In 1929, Rev. D.E. Rice led St. John's A.M.E. to move again to the former Lafayette Square Presbyterian Church on Carrollton Avenue. On February 16, 1929, the *Afro-American* reported on plans for dedication of the new church on Carrollton Avenue:
+In 1929, Rev. D.E. Rice led St. John A.M.E. to move again to the former Lafayette Square Presbyterian Church on Carrollton Avenue. On February 16, 1929, the *Afro-American* reported on plans for dedication of the new church on Carrollton Avenue:
 
 > The new church is located on Carrollton avenue between Lafayette avenue and Lanvale street and is a structure of green tone front and modern design. All ministers in this section together with presiding elders have been asked by the Bishop [A.L. Gaines] to take part in the dedication services. [...]
 
