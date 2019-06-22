@@ -4,7 +4,7 @@ excerpt: "723 West Pratt Street is an early 20th-century four-story warehouse bu
 date: 2010-05-02
 last_modified_at: 2018-04-03
 header:
-  teaser: https://farm1.staticflickr.com/804/40315199095_7de9d7fc5a_h.jpg
+  teaser: https://live.staticflickr.com/804/40315199095_7de9d7fc5a_h.jpg
 map:
   lat: "39.285823"
   lon: "-76.626645"

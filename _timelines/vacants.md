@@ -3,8 +3,8 @@ title: "Baltimore's Vacant Housing"
 date: 2016-01-17
 excerpt: "This timeline on the history of vacancy in Baltimore based on research and writing by Eli Pousson and suggestions from a variety of readers and reviewers. Please share your comments and questions."
 header:
-  teaser: https://c1.staticflickr.com/5/4009/4223437536_dd916e51d4_o.jpg
-  overlay_image: https://c1.staticflickr.com/5/4009/4223437536_dd916e51d4_o.jpg
+  teaser: https://live.staticflickr.com/5/4009/4223437536_dd916e51d4_o.jpg
+  overlay_image: https://live.staticflickr.com/5/4009/4223437536_dd916e51d4_o.jpg
   overlay_filter: .5
   caption: "Vacant rowhouses, 2009 November 13. Courtesy [Eli Pousson/Flickr](https://www.flickr.com/photos/elipousson/4223437536/) ([CC 0](https://creativecommons.org/publicdomain/zero/1.0/))"
 ---

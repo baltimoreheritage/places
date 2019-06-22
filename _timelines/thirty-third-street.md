@@ -3,8 +3,8 @@ title: "Thirty-Third Street: Short History of an Olmsted Parkway"
 date: 2017-04-24
 excerpt: "This timeline on the past and present of the Thirty-Third Street boulevard is based on research and writing by Lauren Schiszik, Duncan Stuart, and Joe Stewart and was created by Eli Pousson in April 2017."
 header:
-  teaser: https://c2.staticflickr.com/4/3956/34005887265_45e3d11569_h.jpg
-  overlay_image: https://c2.staticflickr.com/4/3956/34005887265_45e3d11569_h.jpg
+  teaser: https://live.staticflickr.com/4/3956/34005887265_45e3d11569_h.jpg
+  overlay_image: https://live.staticflickr.com/4/3956/34005887265_45e3d11569_h.jpg
   overlay_filter: .5
   caption: "E. Thirty-Third Street facing towards Barclay Street, 2017 April 11. Photo by Eli Pousson. Courtesy [Baltimore Heritage/Flickr](https://www.flickr.com/photos/baltimoreheritage/34005887265/) ([CC 0](https://creativecommons.org/publicdomain/zero/1.0/))"
 ---

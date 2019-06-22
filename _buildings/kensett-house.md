@@ -2,7 +2,7 @@
 title: "Kensett House Apartments"
 excerpt: "Originally built in the 1890s by Thomas Kennett as a residence, the building was expanded and converted into apartments around 1906."
 header:
-  teaser: https://c2.staticflickr.com/2/1540/24097241459_6d12019a34_h.jpg
+  teaser: https://live.staticflickr.com/2/1540/24097241459_6d12019a34_h.jpg
 map:
   lat: "39.3068735"
   lon: "-76.6304153"

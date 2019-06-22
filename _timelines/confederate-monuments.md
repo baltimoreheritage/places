@@ -4,8 +4,8 @@ date: 2017-08-15
 last_modified_at: 2018-04-18
 excerpt: "This timeline on the history of Confederate memory and the removal of Confederate Monuments in Baltimore is based on research and writing by Eli Pousson."
 header:
-  teaser: https://c1.staticflickr.com/5/4391/35971742713_5ebd449bb7_z.jpg
-  overlay_image: https://c1.staticflickr.com/5/4391/35971742713_8480810eec_h.jpg
+  teaser: https://live.staticflickr.com/5/4391/35971742713_5ebd449bb7_z.jpg
+  overlay_image: https://live.staticflickr.com/5/4391/35971742713_8480810eec_h.jpg
   overlay_filter: .5
   caption: "Red paint splashed on statue, Confederate Soldiers and Sailors Monument, Mount Royal Avenue, 2017 August 14. [Baltimore Heritage](https://www.flickr.com/photos/baltimoreheritage/35971742713/) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/))."
 ---

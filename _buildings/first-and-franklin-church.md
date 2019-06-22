@@ -6,7 +6,7 @@ excerpt: "Designed by architect Norris G. Starkweather, First and Franklin Churc
 building:
   architect: "Norris G. Starkweather"
 header:
-  teaser: https://c1.staticflickr.com/5/4328/35204158963_2e6fb58884_z.jpg
+  teaser: https://live.staticflickr.com/5/4328/35204158963_2e6fb58884_z.jpg
 map:
   lat: "39.2986837"
   lon: "-76.6187788"
@@ -25,11 +25,11 @@ map:
 
 ## Photographs
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/35204158963/in/photolist-WEJprB-VCSvqg-VCSvXZ-WEJqmn-WEJpQx-WNR6jN-WEJoCn-WEJoVX-V8TWoS" title="First and Franklin Street Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"><img src="https://farm5.staticflickr.com/4328/35204158963_2e6fb58884_b.jpg" width="1024" height="768" alt="First and Franklin Street Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/35204158963/in/photolist-WEJprB-VCSvqg-VCSvXZ-WEJqmn-WEJpQx-WNR6jN-WEJoCn-WEJoVX-V8TWoS" title="First and Franklin Street Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"><img src="https://live.staticflickr.com/4328/35204158963_2e6fb58884_b.jpg" width="1024" height="768" alt="First and Franklin Street Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"></a>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/35204157123/in/photolist-WEJprB-VCSvqg-VCSvXZ-WEJqmn-WEJpQx-WNR6jN-WEJoCn-WEJoVX-V8TWoS" title="Parsonage, First and Franklin Street Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"><img src="https://farm5.staticflickr.com/4295/35204157123_1804c111b2_b.jpg" width="1024" height="768" alt="Parsonage, First and Franklin Street Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/35204157123/in/photolist-WEJprB-VCSvqg-VCSvXZ-WEJqmn-WEJpQx-WNR6jN-WEJoCn-WEJoVX-V8TWoS" title="Parsonage, First and Franklin Street Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"><img src="https://live.staticflickr.com/4295/35204157123_1804c111b2_b.jpg" width="1024" height="768" alt="Parsonage, First and Franklin Street Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"></a>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/35881568941/in/photolist-WEJprB-VCSvqg-VCSvXZ-WEJqmn-WEJpQx-WNR6jN-WEJoCn-WEJoVX-V8TWoS" title="Hodge House, First and Franklin Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"><img src="https://farm5.staticflickr.com/4301/35881568941_2ddd2c66d4_b.jpg" width="1024" height="768" alt="Hodge House, First and Franklin Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/35881568941/in/photolist-WEJprB-VCSvqg-VCSvXZ-WEJqmn-WEJpQx-WNR6jN-WEJoCn-WEJoVX-V8TWoS" title="Hodge House, First and Franklin Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"><img src="https://live.staticflickr.com/4301/35881568941_2ddd2c66d4_b.jpg" width="1024" height="768" alt="Hodge House, First and Franklin Presbyterian Church, 210 W. Madison Street, Baltimore, MD 21201"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Bibliography
 

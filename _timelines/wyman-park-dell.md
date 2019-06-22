@@ -4,8 +4,8 @@ date: 2018-05-02
 last_modified_at: 2018-06-07
 excerpt: "A brief history of Wyman Park Dell."
 header:
-  teaser: https://farm2.staticflickr.com/1849/29559761397_422875821f_z.jpg
-  overlay_image: https://farm2.staticflickr.com/1849/29559761397_75804cc7de_h.jpg
+  teaser: https://live.staticflickr.com/1849/29559761397_422875821f_z.jpg
+  overlay_image: https://live.staticflickr.com/1849/29559761397_75804cc7de_h.jpg
   overlay_filter: .5
   caption: "Harriet Tubman Grove, Wyman Park Dell, 2018 March 10. [Baltimore Heritage](https://www.flickr.com/photos/baltimoreheritage/29559761397/) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/))."
 ---

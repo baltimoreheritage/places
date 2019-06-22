@@ -3,8 +3,8 @@ title: "Baltimore's LGBTQ Heritage"
 date: 2016-01-17
 excerpt: "This timeline is based on research and writing by volunteers with the Baltimore Heritage's LGBTQ heritage project including Richard Oloizia, Shirley Parry, Kate Drabinski, and Louis Hughes. This timeline was created by Eli Pousson in January 2017."
 header:
-  teaser: https://c2.staticflickr.com/6/5548/9064175572_a3891f926a_b.jpg
-  overlay_image: https://c2.staticflickr.com/6/5548/9064175572_a3891f926a_b.jpg
+  teaser: https://live.staticflickr.com/6/5548/9064175572_a3891f926a_b.jpg
+  overlay_image: https://live.staticflickr.com/6/5548/9064175572_a3891f926a_b.jpg
   overlay_filter: .5
   caption: "Baltimore Pride Parade, 2013 June 15. Courtesy [Dorret/Flickr](https://www.flickr.com/photos/dorret/9064175572/) ([CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/))"
 ---

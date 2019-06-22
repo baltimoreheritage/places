@@ -22,7 +22,7 @@ property:
 
 *This description is based on a [1978 City of Baltimore Neighborhood Survey form](https://mht.maryland.gov/secure/Medusa/PDF/Baltimore City/B-2993.pdf) from the Maryland Inventory of Historic Properties.*
 
-{% include figure image_path="https://farm5.staticflickr.com/4239/35431861755_6e9fc25255_b.jpg" alt="A form-stone covered former library building with a car parked in front of the building by the curb." caption="Image courtesy the [Maryland Inventory of Historic Properties](https://www.flickr.com/photos/baltimoreheritage/35431861755/)." %}
+{% include figure image_path="https://live.staticflickr.com/4239/35431861755_6e9fc25255_b.jpg" alt="A form-stone covered former library building with a car parked in front of the building by the curb." caption="Image courtesy the [Maryland Inventory of Historic Properties](https://www.flickr.com/photos/baltimoreheritage/35431861755/)." %}
 
 The visible nart of the church is comprised of seven bays and is one story high. The roof is gabled, high pitched, hipped and surfaced with plate tiles. The building and foundation walls as well as the gable ends are surfaced in "formstone", and the mullions, sashes, doors, and door frame are painted wood. Spherical finials cap both gable ands.
 

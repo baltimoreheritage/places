@@ -4,8 +4,8 @@ date: 2018-05-11
 last_modified_at: 2018-05-11
 excerpt: "A timeline history of the Highway to Nowhere, Baltimore's Freeway Revolt, and the Baltimore Red Line."
 header:
-  teaser: https://c1.staticflickr.com/5/4608/39967246484_64fe44dca4_z.jpg
-  overlay_image: https://c1.staticflickr.com/5/4608/39967246484_28611ee972_h.jpg
+  teaser: https://live.staticflickr.com/5/4608/39967246484_64fe44dca4_z.jpg
+  overlay_image: https://live.staticflickr.com/5/4608/39967246484_28611ee972_h.jpg
   overlay_filter: .5
   caption: "View of  U.S. Route 40 from Calhoun Street bridge, 2018 March 6. [Baltimore Heritage](https://www.flickr.com/photos/baltimoreheritage/39967246484/) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/))."
 ---

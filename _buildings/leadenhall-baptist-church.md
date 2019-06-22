@@ -22,7 +22,7 @@ property:
 
 *This description is based on [a survey form](https://mht.maryland.gov/secure/Medusa/PDF/Baltimore City/B-2934.pdf) prepared by Bill Pencek, Planning Assistant for the Commission for Historical and Architectural Preservation in 1976.*
 
-{% include figure image_path="https://farm5.staticflickr.com/4223/35044872940_fde4a4c6c5_b.jpg" alt="A view of a church building between two low industrial buildings." caption="Photograph by Bill Pencek, 1976. Courtesy [Maryland Inventory of Historic Properties](https://www.flickr.com/photos/baltimoreheritage/35044872940/in/datetaken/)." %}
+{% include figure image_path="https://live.staticflickr.com/4223/35044872940_fde4a4c6c5_b.jpg" alt="A view of a church building between two low industrial buildings." caption="Photograph by Bill Pencek, 1976. Courtesy [Maryland Inventory of Historic Properties](https://www.flickr.com/photos/baltimoreheritage/35044872940/in/datetaken/)." %}
 
 Leadenhall Baptist Church is a rectangular brick temple with simple Renaissance Revival detail. Its ground floor contains kitchen, lecture and Sunday School rooms, and the upper floor, with galleries, is reserved for church services. The original exterior wall surfaces have been covered with formstone on the main facade and stucco elsewheres, but the original appearance of the church is recorded in a circa 1885 engraving published in the Maryland Baptist History.
 

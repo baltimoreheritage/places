@@ -3,7 +3,7 @@ title: "Mitchell Family Law Office"
 date: 2017-09-25
 last_modified_at: 2017-10-16
 header:
-  teaser: https://c1.staticflickr.com/1/586/32486334784_aa85051e31_z.jpg
+  teaser: https://live.staticflickr.com/1/586/32486334784_aa85051e31_z.jpg
 map:
   lat: "39.302065"
   lon: "-76.628253"
@@ -21,7 +21,7 @@ property:
 
 Early owners of 1239 Druid Hill Avenue included Charles C. Cook and Herman S. Platt (mentioned [here](https://books.google.com/books?id=apEvAAAAYAAJ&pg=PA16-IA3&dq=%22Herman+S.+Platt%22+baltimore&hl=en&sa=X&ved=0ahUKEwjisKbKksHWAhVGjJQKHT__DGgQ6AEIJjAA#v=onepage&q=%22Herman%20S.%20Platt%22%20baltimore)). The building served as legal offices for Juanita Jackson Mitchell and Clarence M. Mitchell as well as meeting space for the Baltimore chapter of the NAACP and, later, offices for the Lillie Mae Carroll Jackson Museums. The building has been vacant for a number of years and has suffered from significant neglect.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/32486334784/in/photolist-UpzpiL-Tno3uq-UAdkqL-TnnZGw-UpzEco-S1ozPG-S1oA9u-WRGLsC-REn3vu-S1oBaC-S1oBqC-S1oATf-S2qckH-S9Qjzs-QVUjZ1-RYPV4W-QVUBod-QYrSh6-S9Q3ML-S2pwaZ-SdpWED-WzfQKd-Rjztnw-Rjztg9-Ry4HGT-QjiRyB-Rut8ch-RjztJJ-Ry4KRc-Ry4L7T-S8E71e-Scm8EJ-RuGXwq-RuGXRo-RuGXHC-DgU6Kn-D7jY1S-D7jWHb-DgU4cB-CjokK5-CjvttX-CjvsHP-8Jjhay-8JjgVj-8Jgd2X-8JgcQg-8Jgcep-8Jjg7u-RuGXiu-8Jjhkh" title="View from the roof of 1230 Druid Hill Avenue, Baltimore, MD 21217"><img src="https://farm1.staticflickr.com/586/32486334784_aa85051e31_b.jpg" width="1024" height="769" alt="View from the roof of 1230 Druid Hill Avenue, Baltimore, MD 21217"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/32486334784/in/photolist-UpzpiL-Tno3uq-UAdkqL-TnnZGw-UpzEco-S1ozPG-S1oA9u-WRGLsC-REn3vu-S1oBaC-S1oBqC-S1oATf-S2qckH-S9Qjzs-QVUjZ1-RYPV4W-QVUBod-QYrSh6-S9Q3ML-S2pwaZ-SdpWED-WzfQKd-Rjztnw-Rjztg9-Ry4HGT-QjiRyB-Rut8ch-RjztJJ-Ry4KRc-Ry4L7T-S8E71e-Scm8EJ-RuGXwq-RuGXRo-RuGXHC-DgU6Kn-D7jY1S-D7jWHb-DgU4cB-CjokK5-CjvttX-CjvsHP-8Jjhay-8JjgVj-8Jgd2X-8JgcQg-8Jgcep-8Jjg7u-RuGXiu-8Jjhkh" title="View from the roof of 1230 Druid Hill Avenue, Baltimore, MD 21217"><img src="https://live.staticflickr.com/586/32486334784_aa85051e31_b.jpg" width="1024" height="769" alt="View from the roof of 1230 Druid Hill Avenue, Baltimore, MD 21217"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Timeline
 

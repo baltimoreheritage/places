@@ -6,7 +6,7 @@ excerpt: "This building is a former branch of the Enoch Pratt Free Library that 
 building:
   architect: "Charles L. Carson"
 header:
-  teaser: https://c1.staticflickr.com/1/617/32483636616_22510e3290_h.jpg
+  teaser: https://live.staticflickr.com/1/617/32483636616_22510e3290_h.jpg
 map:
   lat: "39.3186133"
   lon: "-76.6151733"
@@ -34,7 +34,7 @@ On January 5, 1886, the Central Library on Mulberry Street opened to patrons. Wi
 
 ## November 14, 1896: Saint Paul Street Branch Library opens with 6,500 books
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/32371711612/in/photolist-Rut8sh-Rjzu3Q" title="Village Learning Place, Saint Paul Street, Baltimore, MD"><img src="https://c1.staticflickr.com/1/400/32371711612_5af76fb839_c.jpg" width="800" height="600" alt="Village Learning Place, Saint Paul Street, Baltimore, MD"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/32371711612/in/photolist-Rut8sh-Rjzu3Q" title="Village Learning Place, Saint Paul Street, Baltimore, MD"><img src="https://live.staticflickr.com/1/400/32371711612_5af76fb839_c.jpg" width="800" height="600" alt="Village Learning Place, Saint Paul Street, Baltimore, MD"></a>
 
 The Enoch Pratt Free Library grew in the late nineteenth and early twentieth centuries to become one of the nation's largest library systems in both the size of its collection and the scale of its circulation. Only three public library systems in Boston, Chicago, and Cincinnati held larger collections and only the libraries in Boston, Chicago, and New York had greater circulation. New branches, including the Saint Paul Street Branch (also known as the Peabody Heights branch), were an important part of this growth.
 
@@ -96,7 +96,7 @@ A photo feature in  _The Sun_ in 1991, poignantly captioned "A librarian's rewar
 
 >Children from Margaret Brent Elementary School surround Theresa Edmonds, a librarian at the St- Paul Street branch of the Enoch Pratt Library, at a farewell party. Ms. Edmonds, who has worked at the tiny branch in Charles Village for a year and in the library system for 14 years, is to be laid off Friday — a victim of Baltimore's budget cuts.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/villagelearningplace/3712014960/in/photolist-9jUAYH-ouHG2i-7PNxqC-6E23HW-osJLuS-Rut8sh-Rjzu3Q" title="Community Residents Protest Closure of Pratt Branch No. 6, 1997"><img src="https://c1.staticflickr.com/4/3482/3712014960_de869febfa_o.jpg" width="885" height="501" alt="Community Residents Protest Closure of Pratt Branch No. 6, 1997"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/villagelearningplace/3712014960/in/photolist-9jUAYH-ouHG2i-7PNxqC-6E23HW-osJLuS-Rut8sh-Rjzu3Q" title="Community Residents Protest Closure of Pratt Branch No. 6, 1997"><img src="https://live.staticflickr.com/4/3482/3712014960_de869febfa_o.jpg" width="885" height="501" alt="Community Residents Protest Closure of Pratt Branch No. 6, 1997"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 In 1997, when the Enoch Pratt Free Library finally announced plans to close the Saint Paul Street Center, local residents responded with protests and filed a lawsuit against the city. While ultimately unsuccessful at keeping the library opening, the closure became a catalyst for a concerted two-year campaign to lease the city-owned building and reopen the library in a more modern guise."
 

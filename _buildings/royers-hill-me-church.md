@@ -6,7 +6,7 @@ last_modified_at: 2017-04-25
 building:
   architect: "Rev. Edward L. Watson"
 header:
-  teaser: https://c1.staticflickr.com/1/703/32513101343_67a5e2400e_h.jpg
+  teaser: https://live.staticflickr.com/1/703/32513101343_67a5e2400e_h.jpg
 map:
   lat: "39.316385"
   lon: "-76.622248"
@@ -26,7 +26,7 @@ property:
 
 The former church at 400 West 24th Street is a small stone building with a gable roof used in 2010 as a garage. Despite several modern additions and changes, the building retains original window openings, original roof framing, and pressed tin ceiling panels. Constructed under the supervision of Rev. Edward L. Watson around 1891 as the 24th Street Methodist Episcopal Church, the building remained in use as a church until it was converted to use as a motor freight station sometime prior to 1951.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/32513101343/in/photolist-Rx5acV-Rx59hP-SzJJ7e-Rx5a2V-SzJHW4-SzJJfv-SzJHFe-SzJHun" title="Former Royer&#x27;s Hill Methodist Episcopal Church, 400 W. 24th Street, Baltimore, MD 21211"><img src="https://c1.staticflickr.com/1/703/32513101343_f0a6b8f2c3_c.jpg" width="800" height="600" alt="Former Royer&#x27;s Hill Methodist Episcopal Church, 400 W. 24th Street, Baltimore, MD 21211"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/32513101343/in/photolist-Rx5acV-Rx59hP-SzJJ7e-Rx5a2V-SzJHW4-SzJJfv-SzJHFe-SzJHun" title="Former Royer&#x27;s Hill Methodist Episcopal Church, 400 W. 24th Street, Baltimore, MD 21211"><img src="https://live.staticflickr.com/1/703/32513101343_f0a6b8f2c3_c.jpg" width="800" height="600" alt="Former Royer&#x27;s Hill Methodist Episcopal Church, 400 W. 24th Street, Baltimore, MD 21211"></a>
 
 The 24th Street ME Church was constructed to serve the Royer Hill Church or Royer's Hill Chapel established in December 1885. The Royer Hill Church was established following the relocation of the First Methodist Episcopal Church from its location on Charles Street to a new location outside of the city limits at 22nd Street and St. Paul Street. Despite opposition from two-thirds of existing members, Rev. John F. Goucher, D.D. led the effort to construct a new building designed by Stanford White and move the church out to its then suburban context. In _When Church became Theatre_, Jeanne Halgren Kilde notes:
 
@@ -34,7 +34,7 @@ The 24th Street ME Church was constructed to serve the Royer Hill Church or Roye
 
 Located at the southeast corner of East Lanvale Street and Guilford Avenue, the Guilford Avenue Chapel was demolished at some point following 1951. ‎ Located at the northeast corner of Loch Raven Road and Cokesbury Avenue, the Oxford Church and Sunday Schools remained extant in February 2010 and was then in use as the Jerusalem Baptist Church.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/33199619121/in/photolist-Rx5acV-Rx59hP-SzJJ7e-Rx5a2V-SzJHW4-SzJJfv-SzJHFe-SzJHun" title="Former Royer&#x27;s Hill Methodist Episcopal Church, 400 W. 24th Street, Baltimore, MD 21211"><img src="https://c1.staticflickr.com/4/3898/33199619121_ee971baa66_c.jpg" width="800" height="600" alt="Former Royer&#x27;s Hill Methodist Episcopal Church, 400 W. 24th Street, Baltimore, MD 21211"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/33199619121/in/photolist-Rx5acV-Rx59hP-SzJJ7e-Rx5a2V-SzJHW4-SzJJfv-SzJHFe-SzJHun" title="Former Royer&#x27;s Hill Methodist Episcopal Church, 400 W. 24th Street, Baltimore, MD 21211"><img src="https://live.staticflickr.com/4/3898/33199619121_ee971baa66_c.jpg" width="800" height="600" alt="Former Royer&#x27;s Hill Methodist Episcopal Church, 400 W. 24th Street, Baltimore, MD 21211"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Rev. Edward L. Watson
 

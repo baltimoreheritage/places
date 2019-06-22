@@ -4,8 +4,8 @@ date: 2017-08-14
 last_modified_at: 2018-04-03
 excerpt: "This short timeline history of Clipper Mill was created by Eli Pousson in August 2017."
 header:
-  teaser: https://c1.staticflickr.com/5/4396/36085207090_a95e792292_c.jpg
-  overlay_image: https://c1.staticflickr.com/5/4396/36085207090_a95e792292_b.jpg
+  teaser: https://live.staticflickr.com/5/4396/36085207090_a95e792292_c.jpg
+  overlay_image: https://live.staticflickr.com/5/4396/36085207090_a95e792292_b.jpg
   overlay_filter: .5
   caption: "Poole & Hunt Foundry and Machine Works, 3500 Clipper Road, Baltimore, MD 21211. Photograph by Jennifer Goold, Betty Bird and Associates, 2003 March. Courtesy the [Maryland Historical Trust, MIHP (B-1007)](https://www.flickr.com/photos/baltimoreheritage/36085207090/)"
 ---

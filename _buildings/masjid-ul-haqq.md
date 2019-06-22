@@ -17,8 +17,8 @@ property:
   block: "0339"
   lot: "061"
 header:
-  teaser: https://farm5.staticflickr.com/4523/24145754737_d265153b5d_z.jpg
-  overlay_image: https://farm5.staticflickr.com/4523/24145754737_4b8d9eb8e2_h.jpg
+  teaser: https://live.staticflickr.com/4523/24145754737_d265153b5d_z.jpg
+  overlay_image: https://live.staticflickr.com/4523/24145754737_4b8d9eb8e2_h.jpg
   overlay_filter: .5
   caption: "Masjid Ul-Haqq/Former Mosque No. 6, 514 Islamic Way, 2017 December 11. Courtesy [Baltimore Heritage](https://www.flickr.com/photos/baltimoreheritage/24145754737/) ([CC 0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))"
 ---
