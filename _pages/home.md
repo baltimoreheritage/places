@@ -27,6 +27,32 @@ sections:
     excerpt: "A collection of essays and research notes on the history of Baltimore neighborhoods."
     btn_label: "Browse areas"
     btn_class: "btn--info"
+related_overview:
+ - title: "Keep learning about buildings and preservation"
+   excerpt: "Baltimore Places is one of several open educational resources Baltimore Heritage created for preservationists, residents, and people who care about historic buildings."
+related_projects:
+  - image_path: https://live.staticflickr.com/4918/44503655260_f729e442fe_z.jpg
+    title: "Maintain Civic Spaces"
+    url: "https://baltimoreheritage.github.io/civicspaces/"
+    excerpt: "A resource on assist nonprofit staff and volunteers in maintaining civic spaces."
+    btn_label: "Learn more"
+    btn_class: "btn--info"
+  - image_path: https://live.staticflickr.com/2411/32132831684_70f92bb6b5_z.jpg
+    title: "Vacant Buildings 101"
+    url: "https://baltimoreheritage.github.io/vacant-buildings-101/"
+    excerpt: "Baltimore Heritage and the Community Law Center created this introductory guide to help Baltimore residents, property owners, and community leaders take action on vacant buildings."
+    btn_label: "Take action"
+    btn_class: "btn--info"
+  - image_path: https://live.staticflickr.com/4873/30931324637_9b46d0a562_z.jpg
+    title: "Explore Baltimore Heritage"
+    url: "https://explore.baltimoreheritage.org/"
+    excerpt: "A website and smartphone app created by Baltimore historians, students, and residents tell the stories behind historic buildings and neighborhoods."
+    btn_label: "Discover history"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row id="sections" type="left" %}
+
+{% include feature_row id="related_overview" type="center" %}
+
+{% include feature_row id="related_projects" %}
