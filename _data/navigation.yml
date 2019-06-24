@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "Buildings"
-    url: http://places.baltimoreheritage.org/buildings/
+    url: /buildings/
   - title: "Timelines"
-    url: http://places.baltimoreheritage.org/timelines/
+    url: /timelines/
+  - title: "Areas"
+    url: /areas/
 #  - title: "About"
 #    url: http://places.baltimoreheritage.org/about/
   - title: "About Baltimore Heritage"
