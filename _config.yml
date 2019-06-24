@@ -284,7 +284,7 @@ defaults:
       path: ""
       type: buildings
     values:
-      layout: building
+      layout: single
       author_profile: false
       share: true
       header:
@@ -297,7 +297,7 @@ defaults:
       path: ""
       type: structures
     values:
-      layout: building
+      layout: single
       author_profile: false
       share: true
       header:
@@ -310,7 +310,7 @@ defaults:
       path: ""
       type: works
     values:
-      layout: building
+      layout: single
       author_profile: false
       share: true
       header:
@@ -322,14 +322,6 @@ defaults:
   - scope:
       path: ""
       type: timelines
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _maps
-  - scope:
-      path: ""
-      type: maps
     values:
       layout: single
       author_profile: false
