@@ -4,8 +4,8 @@ date: 2016-01-17
 last_modified_at: 2017-05-23
 excerpt: "This timeline on the history of Civil War memory in Baltimore and Maryland is based on research and writing by Eli Pousson. Please share your comments and questions."
 header:
-  teaser: http://explore.baltimoreheritage.org/files/original/fa2fbc3a8e75ea89f110cb2f61e74de6.jpg
-  overlay_image: http://explore.baltimoreheritage.org/files/original/fa2fbc3a8e75ea89f110cb2f61e74de6.jpg
+  teaser: https://live.staticflickr.com/877/40330852364_fe2dfbda0f_z.jpg
+  overlay_image: https://live.staticflickr.com/877/40330852364_e9e7d908a5_h.jpg
   overlay_filter: .5
   caption: "Photograph of Confederate Soldiers and Sailors Monument on Mount Royal Avenue, c. 1903. Detroit Publishing Company. Courtesy Library of Congress, [det.4a10969](http://www.loc.gov/pictures/resource/det.4a10969/) (PD)."
 ---
